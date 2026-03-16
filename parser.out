@@ -1,0 +1,2150 @@
+Created by PLY version 3.11 (http://www.dabeaz.com/ply)
+
+Unused terminals:
+
+    WAW3ATF1
+
+Grammar
+
+Rule 0     S' -> quote
+Rule 1     quote -> quote1
+Rule 2     quote -> quote2
+Rule 3     quote -> quote3
+Rule 4     quote -> quote4
+Rule 5     quote -> quote5
+Rule 6     quote -> quote6
+Rule 7     quote -> quote7
+Rule 8     quote -> quote8
+Rule 9     quote -> quote9
+Rule 10    quote -> quote10
+Rule 11    quote -> quote11
+Rule 12    quote -> quote12
+Rule 13    quote -> quote13
+Rule 14    quote -> quote14
+Rule 15    quote -> quote15
+Rule 16    quote -> quote16
+Rule 17    quote -> quote17
+Rule 18    quote -> quote18
+Rule 19    quote -> quote19
+Rule 20    quote -> quote20
+Rule 21    quote -> quote21
+Rule 22    quote -> quote22
+Rule 23    quote -> quote23
+Rule 24    quote -> quote24
+Rule 25    quote -> quote25
+Rule 26    quote4 -> KHABAR3 MODAFILAYH2 FI3LNA9ISS FI3LMADI6 7ARFJAR5 FA3IL
+Rule 27    quote1 -> ISSMMAWSOUL FI3LMADI2 MAF3OULBIH FI3LMADI
+Rule 28    quote2 -> MOBTADAE1 KHABAR1 NA3T1 WAW3ATF MOBTADAE2 KHABAR2 NA3T2 FI3LAMR1 MODAF1 MODAFILAYH1 ISSMMAJROUR1 WAW3ATF FI3LAMR2 MAF3OULBIH1 ISSMMAJROUR2
+Rule 29    quote3 -> 7ARFNAFY1 FI3LMODARI3 ISSMMAJROUR3 7ARFNASSB FI3LMODARI31 ISSMMAJROUR4 ISSM1 WAW3ATF2 ISSM2 ISSM3 FI3LMADI3 NA3T3 ISSM4 FI3LMADI4 WAW3ATF2 MA3TOUF ISSM5 FI3LMADI5
+Rule 30    quote5 -> FI3LNA9ISS FI3LMADI7 ISSMJALALA 7ARFJAR6 ISSMMAJROUR6 MODAFILAYH3 FI3LMODARI32 HARFGHAYA FI3LMADI8 7ARFJAR7 ISSMMAJROUR7 MODAFILAYH4 7ARFNASSB FI3LMODARI33
+Rule 31    quote6 -> FI3LNA9ISS MOBTADAE3 KHABAR4 FI3LMODARI34
+Rule 32    quote7 -> ADATNAFY ISSM6 ISSMMAJROUR8 7ARFJARZA2ID 7ARFJAR8 ISSMMAJROUR9 MOBTADAEMARFOU3 MODAFILAYH5 FI3LNA9ISS FI3LMADI9
+Rule 33    quote8 -> FI3LNA9ISS FI3LMADI10 FI3LMODARI35 DARF
+Rule 34    quote9 -> FI3LAMR3 MAF3OULBIH2 MODAFILAYH6 7ARFISTI2NAF ISSMJALALA FI3LMADI11 FI3LMADI12 MAF3OULBIH3 7ARFJAR16 ISSMMAJROUR10
+Rule 35    quote10 -> MOBTADAE4 KHABAR5 MODAFILAYH7 WAW3ATF MOBTADAE5 KHABAR6 MODAFILAYH8
+Rule 36    quote11 -> 7ARFTAWKID ISSMICHARA ISSM7 FI3LMODARI36 7ARFJAR9 FA3IL1 FI3LMODARI37 DAMIRMOTASIL4 MAF3OULBIH4 MODAFILAYH9
+Rule 37    quote12 -> 7ARFNAFY2 ISSM8 ISSMMAJROUR11 7ARFJAR11 ISSMMAJROUR12 MODAFILAYH10
+Rule 38    quote13 -> MOBTADAE6 MODAFILAYH11 KHABAR7 MODAFILAYH12 WAW3ATF MOBTADAE7 MODAFILAYH13 KHABAR8 MODAFILAYH14
+Rule 39    quote14 -> ISSMTAFDIL MODAFILAYH15 FI3LNA9ISS FI3LMADI13 MOSTATNA 7ARFJAR12
+Rule 40    quote15 -> FI3LNA9ISS FI3LMADI14 FA3IL2 MAF3OULBIH5 MOBTADAE8 FI3LMADI15 7ARFJAAR ISSMMAJROUR14 MODAFILAYH16 MA3TOUF1 MODAFILAYH17
+Rule 41    quote16 -> ISSMMAWSOUL FI3LMADI16 FA3IL3 ISSM9 MODAFILAYH18 7ARFISTITNA2 FI3LMODARI38 ISSMMAWSOUL FI3LMADI17 JARWAMAJROUR MAF3OULBIH6
+Rule 42    quote17 -> MOBTADAE9 KHABAR9 MODAFILAYH19 WAW3ATF 7ARFNAFY2 FI3L MAF3OULBIH7 7ARFJAR16 ISSMMAJROUR15 MODAFILAYH20
+Rule 43    quote18 -> MOBTADAE10 7ARFJAR13 ISSMMAJROUR16 KHABAR10 7ARFJAR14 ISSMMAJROUR17 MODAFILAYH21
+Rule 44    quote19 -> ISSMMAWSOUL FI3LMADI18 FA3IL4 MAF3OULBIH8 7ARFNAFY3 FI3LMADI19 FA3IL5 MAF3OULBIH9
+Rule 45    quote20 -> MOBTADAE11 KHABAR11 ISSMMAJROUR18 MODAFILAYH22 WAW3ATF MOBTADAE12 KHABAR12 FA3IL6 JARWAMAJROUR1 7ARFJAR15 ISSMMAJROUR19 MODAFILAYH23
+Rule 46    quote21 -> DETERMINER ADJECTIVE CONJUNCTION VERB PRT VERB1 PRONOUN
+Rule 47    quote22 -> NOUN1 VERB2 DETERMINER1 ADJECTIVE1 NOUN3 PREPOSITION1 DETERMINER2 NOUN4
+Rule 48    quote23 -> ADJECTIVE2 NOUN5 VERB3 ADVERB1 ADVERB2 ADJECTIVE3 CONJUNCTION1 ADJECTIVE4 NOUN6 VERB4 ADVERB3 ADJECTIVE5
+Rule 49    quote24 -> DETERMINER3 NOUN7 PREPOSITION2 NOUN8 VERB5 DETERMINER4 NOUN9 PREPOSITION3 DETERMINER5 NOUN10
+Rule 50    quote25 -> PRONOM SUJET1 SUJET2 VERBE ADJECTIF SUJET3 ADJECTIF2 COMPLEMENT2
+
+Terminals, with rules where they appear
+
+7ARFISTI2NAF         : 34
+7ARFISTITNA2         : 41
+7ARFJAAR             : 40
+7ARFJAR11            : 37
+7ARFJAR12            : 39
+7ARFJAR13            : 43
+7ARFJAR14            : 43
+7ARFJAR15            : 45
+7ARFJAR16            : 34 42
+7ARFJAR5             : 26
+7ARFJAR6             : 30
+7ARFJAR7             : 30
+7ARFJAR8             : 32
+7ARFJAR9             : 36
+7ARFJARZA2ID         : 32
+7ARFNAFY1            : 29
+7ARFNAFY2            : 37 42
+7ARFNAFY3            : 44
+7ARFNASSB            : 29 30
+7ARFTAWKID           : 36
+ADATNAFY             : 32
+ADJECTIF             : 50
+ADJECTIF2            : 50
+ADJECTIVE            : 46
+ADJECTIVE1           : 47
+ADJECTIVE2           : 48
+ADJECTIVE3           : 48
+ADJECTIVE4           : 48
+ADJECTIVE5           : 48
+ADVERB1              : 48
+ADVERB2              : 48
+ADVERB3              : 48
+COMPLEMENT2          : 50
+CONJUNCTION          : 46
+CONJUNCTION1         : 48
+DAMIRMOTASIL4        : 36
+DARF                 : 33
+DETERMINER           : 46
+DETERMINER1          : 47
+DETERMINER2          : 47
+DETERMINER3          : 49
+DETERMINER4          : 49
+DETERMINER5          : 49
+FA3IL                : 26
+FA3IL1               : 36
+FA3IL2               : 40
+FA3IL3               : 41
+FA3IL4               : 44
+FA3IL5               : 44
+FA3IL6               : 45
+FI3L                 : 42
+FI3LAMR1             : 28
+FI3LAMR2             : 28
+FI3LAMR3             : 34
+FI3LMADI             : 27
+FI3LMADI10           : 33
+FI3LMADI11           : 34
+FI3LMADI12           : 34
+FI3LMADI13           : 39
+FI3LMADI14           : 40
+FI3LMADI15           : 40
+FI3LMADI16           : 41
+FI3LMADI17           : 41
+FI3LMADI18           : 44
+FI3LMADI19           : 44
+FI3LMADI2            : 27
+FI3LMADI3            : 29
+FI3LMADI4            : 29
+FI3LMADI5            : 29
+FI3LMADI6            : 26
+FI3LMADI7            : 30
+FI3LMADI8            : 30
+FI3LMADI9            : 32
+FI3LMODARI3          : 29
+FI3LMODARI31         : 29
+FI3LMODARI32         : 30
+FI3LMODARI33         : 30
+FI3LMODARI34         : 31
+FI3LMODARI35         : 33
+FI3LMODARI36         : 36
+FI3LMODARI37         : 36
+FI3LMODARI38         : 41
+FI3LNA9ISS           : 26 30 31 32 33 39 40
+HARFGHAYA            : 30
+ISSM1                : 29
+ISSM2                : 29
+ISSM3                : 29
+ISSM4                : 29
+ISSM5                : 29
+ISSM6                : 32
+ISSM7                : 36
+ISSM8                : 37
+ISSM9                : 41
+ISSMICHARA           : 36
+ISSMJALALA           : 30 34
+ISSMMAJROUR1         : 28
+ISSMMAJROUR10        : 34
+ISSMMAJROUR11        : 37
+ISSMMAJROUR12        : 37
+ISSMMAJROUR14        : 40
+ISSMMAJROUR15        : 42
+ISSMMAJROUR16        : 43
+ISSMMAJROUR17        : 43
+ISSMMAJROUR18        : 45
+ISSMMAJROUR19        : 45
+ISSMMAJROUR2         : 28
+ISSMMAJROUR3         : 29
+ISSMMAJROUR4         : 29
+ISSMMAJROUR6         : 30
+ISSMMAJROUR7         : 30
+ISSMMAJROUR8         : 32
+ISSMMAJROUR9         : 32
+ISSMMAWSOUL          : 27 41 41 44
+ISSMTAFDIL           : 39
+JARWAMAJROUR         : 41
+JARWAMAJROUR1        : 45
+KHABAR1              : 28
+KHABAR10             : 43
+KHABAR11             : 45
+KHABAR12             : 45
+KHABAR2              : 28
+KHABAR3              : 26
+KHABAR4              : 31
+KHABAR5              : 35
+KHABAR6              : 35
+KHABAR7              : 38
+KHABAR8              : 38
+KHABAR9              : 42
+MA3TOUF              : 29
+MA3TOUF1             : 40
+MAF3OULBIH           : 27
+MAF3OULBIH1          : 28
+MAF3OULBIH2          : 34
+MAF3OULBIH3          : 34
+MAF3OULBIH4          : 36
+MAF3OULBIH5          : 40
+MAF3OULBIH6          : 41
+MAF3OULBIH7          : 42
+MAF3OULBIH8          : 44
+MAF3OULBIH9          : 44
+MOBTADAE1            : 28
+MOBTADAE10           : 43
+MOBTADAE11           : 45
+MOBTADAE12           : 45
+MOBTADAE2            : 28
+MOBTADAE3            : 31
+MOBTADAE4            : 35
+MOBTADAE5            : 35
+MOBTADAE6            : 38
+MOBTADAE7            : 38
+MOBTADAE8            : 40
+MOBTADAE9            : 42
+MOBTADAEMARFOU3      : 32
+MODAF1               : 28
+MODAFILAYH1          : 28
+MODAFILAYH10         : 37
+MODAFILAYH11         : 38
+MODAFILAYH12         : 38
+MODAFILAYH13         : 38
+MODAFILAYH14         : 38
+MODAFILAYH15         : 39
+MODAFILAYH16         : 40
+MODAFILAYH17         : 40
+MODAFILAYH18         : 41
+MODAFILAYH19         : 42
+MODAFILAYH2          : 26
+MODAFILAYH20         : 42
+MODAFILAYH21         : 43
+MODAFILAYH22         : 45
+MODAFILAYH23         : 45
+MODAFILAYH3          : 30
+MODAFILAYH4          : 30
+MODAFILAYH5          : 32
+MODAFILAYH6          : 34
+MODAFILAYH7          : 35
+MODAFILAYH8          : 35
+MODAFILAYH9          : 36
+MOSTATNA             : 39
+NA3T1                : 28
+NA3T2                : 28
+NA3T3                : 29
+NOUN1                : 47
+NOUN10               : 49
+NOUN3                : 47
+NOUN4                : 47
+NOUN5                : 48
+NOUN6                : 48
+NOUN7                : 49
+NOUN8                : 49
+NOUN9                : 49
+PREPOSITION1         : 47
+PREPOSITION2         : 49
+PREPOSITION3         : 49
+PRONOM               : 50
+PRONOUN              : 46
+PRT                  : 46
+SUJET1               : 50
+SUJET2               : 50
+SUJET3               : 50
+VERB                 : 46
+VERB1                : 46
+VERB2                : 47
+VERB3                : 48
+VERB4                : 48
+VERB5                : 49
+VERBE                : 50
+WAW3ATF              : 28 28 35 38 42 45
+WAW3ATF1             : 
+WAW3ATF2             : 29 29
+error                : 
+
+Nonterminals, with rules where they appear
+
+quote                : 0
+quote1               : 1
+quote10              : 10
+quote11              : 11
+quote12              : 12
+quote13              : 13
+quote14              : 14
+quote15              : 15
+quote16              : 16
+quote17              : 17
+quote18              : 18
+quote19              : 19
+quote2               : 2
+quote20              : 20
+quote21              : 21
+quote22              : 22
+quote23              : 23
+quote24              : 24
+quote25              : 25
+quote3               : 3
+quote4               : 4
+quote5               : 5
+quote6               : 6
+quote7               : 7
+quote8               : 8
+quote9               : 9
+
+Parsing method: LALR
+
+state 0
+
+    (0) S' -> . quote
+    (1) quote -> . quote1
+    (2) quote -> . quote2
+    (3) quote -> . quote3
+    (4) quote -> . quote4
+    (5) quote -> . quote5
+    (6) quote -> . quote6
+    (7) quote -> . quote7
+    (8) quote -> . quote8
+    (9) quote -> . quote9
+    (10) quote -> . quote10
+    (11) quote -> . quote11
+    (12) quote -> . quote12
+    (13) quote -> . quote13
+    (14) quote -> . quote14
+    (15) quote -> . quote15
+    (16) quote -> . quote16
+    (17) quote -> . quote17
+    (18) quote -> . quote18
+    (19) quote -> . quote19
+    (20) quote -> . quote20
+    (21) quote -> . quote21
+    (22) quote -> . quote22
+    (23) quote -> . quote23
+    (24) quote -> . quote24
+    (25) quote -> . quote25
+    (27) quote1 -> . ISSMMAWSOUL FI3LMADI2 MAF3OULBIH FI3LMADI
+    (28) quote2 -> . MOBTADAE1 KHABAR1 NA3T1 WAW3ATF MOBTADAE2 KHABAR2 NA3T2 FI3LAMR1 MODAF1 MODAFILAYH1 ISSMMAJROUR1 WAW3ATF FI3LAMR2 MAF3OULBIH1 ISSMMAJROUR2
+    (29) quote3 -> . 7ARFNAFY1 FI3LMODARI3 ISSMMAJROUR3 7ARFNASSB FI3LMODARI31 ISSMMAJROUR4 ISSM1 WAW3ATF2 ISSM2 ISSM3 FI3LMADI3 NA3T3 ISSM4 FI3LMADI4 WAW3ATF2 MA3TOUF ISSM5 FI3LMADI5
+    (26) quote4 -> . KHABAR3 MODAFILAYH2 FI3LNA9ISS FI3LMADI6 7ARFJAR5 FA3IL
+    (30) quote5 -> . FI3LNA9ISS FI3LMADI7 ISSMJALALA 7ARFJAR6 ISSMMAJROUR6 MODAFILAYH3 FI3LMODARI32 HARFGHAYA FI3LMADI8 7ARFJAR7 ISSMMAJROUR7 MODAFILAYH4 7ARFNASSB FI3LMODARI33
+    (31) quote6 -> . FI3LNA9ISS MOBTADAE3 KHABAR4 FI3LMODARI34
+    (32) quote7 -> . ADATNAFY ISSM6 ISSMMAJROUR8 7ARFJARZA2ID 7ARFJAR8 ISSMMAJROUR9 MOBTADAEMARFOU3 MODAFILAYH5 FI3LNA9ISS FI3LMADI9
+    (33) quote8 -> . FI3LNA9ISS FI3LMADI10 FI3LMODARI35 DARF
+    (34) quote9 -> . FI3LAMR3 MAF3OULBIH2 MODAFILAYH6 7ARFISTI2NAF ISSMJALALA FI3LMADI11 FI3LMADI12 MAF3OULBIH3 7ARFJAR16 ISSMMAJROUR10
+    (35) quote10 -> . MOBTADAE4 KHABAR5 MODAFILAYH7 WAW3ATF MOBTADAE5 KHABAR6 MODAFILAYH8
+    (36) quote11 -> . 7ARFTAWKID ISSMICHARA ISSM7 FI3LMODARI36 7ARFJAR9 FA3IL1 FI3LMODARI37 DAMIRMOTASIL4 MAF3OULBIH4 MODAFILAYH9
+    (37) quote12 -> . 7ARFNAFY2 ISSM8 ISSMMAJROUR11 7ARFJAR11 ISSMMAJROUR12 MODAFILAYH10
+    (38) quote13 -> . MOBTADAE6 MODAFILAYH11 KHABAR7 MODAFILAYH12 WAW3ATF MOBTADAE7 MODAFILAYH13 KHABAR8 MODAFILAYH14
+    (39) quote14 -> . ISSMTAFDIL MODAFILAYH15 FI3LNA9ISS FI3LMADI13 MOSTATNA 7ARFJAR12
+    (40) quote15 -> . FI3LNA9ISS FI3LMADI14 FA3IL2 MAF3OULBIH5 MOBTADAE8 FI3LMADI15 7ARFJAAR ISSMMAJROUR14 MODAFILAYH16 MA3TOUF1 MODAFILAYH17
+    (41) quote16 -> . ISSMMAWSOUL FI3LMADI16 FA3IL3 ISSM9 MODAFILAYH18 7ARFISTITNA2 FI3LMODARI38 ISSMMAWSOUL FI3LMADI17 JARWAMAJROUR MAF3OULBIH6
+    (42) quote17 -> . MOBTADAE9 KHABAR9 MODAFILAYH19 WAW3ATF 7ARFNAFY2 FI3L MAF3OULBIH7 7ARFJAR16 ISSMMAJROUR15 MODAFILAYH20
+    (43) quote18 -> . MOBTADAE10 7ARFJAR13 ISSMMAJROUR16 KHABAR10 7ARFJAR14 ISSMMAJROUR17 MODAFILAYH21
+    (44) quote19 -> . ISSMMAWSOUL FI3LMADI18 FA3IL4 MAF3OULBIH8 7ARFNAFY3 FI3LMADI19 FA3IL5 MAF3OULBIH9
+    (45) quote20 -> . MOBTADAE11 KHABAR11 ISSMMAJROUR18 MODAFILAYH22 WAW3ATF MOBTADAE12 KHABAR12 FA3IL6 JARWAMAJROUR1 7ARFJAR15 ISSMMAJROUR19 MODAFILAYH23
+    (46) quote21 -> . DETERMINER ADJECTIVE CONJUNCTION VERB PRT VERB1 PRONOUN
+    (47) quote22 -> . NOUN1 VERB2 DETERMINER1 ADJECTIVE1 NOUN3 PREPOSITION1 DETERMINER2 NOUN4
+    (48) quote23 -> . ADJECTIVE2 NOUN5 VERB3 ADVERB1 ADVERB2 ADJECTIVE3 CONJUNCTION1 ADJECTIVE4 NOUN6 VERB4 ADVERB3 ADJECTIVE5
+    (49) quote24 -> . DETERMINER3 NOUN7 PREPOSITION2 NOUN8 VERB5 DETERMINER4 NOUN9 PREPOSITION3 DETERMINER5 NOUN10
+    (50) quote25 -> . PRONOM SUJET1 SUJET2 VERBE ADJECTIF SUJET3 ADJECTIF2 COMPLEMENT2
+
+    ISSMMAWSOUL     shift and go to state 27
+    MOBTADAE1       shift and go to state 28
+    7ARFNAFY1       shift and go to state 29
+    KHABAR3         shift and go to state 30
+    FI3LNA9ISS      shift and go to state 31
+    ADATNAFY        shift and go to state 32
+    FI3LAMR3        shift and go to state 33
+    MOBTADAE4       shift and go to state 34
+    7ARFTAWKID      shift and go to state 35
+    7ARFNAFY2       shift and go to state 36
+    MOBTADAE6       shift and go to state 37
+    ISSMTAFDIL      shift and go to state 38
+    MOBTADAE9       shift and go to state 39
+    MOBTADAE10      shift and go to state 40
+    MOBTADAE11      shift and go to state 41
+    DETERMINER      shift and go to state 42
+    NOUN1           shift and go to state 43
+    ADJECTIVE2      shift and go to state 44
+    DETERMINER3     shift and go to state 45
+    PRONOM          shift and go to state 46
+
+    quote                          shift and go to state 1
+    quote1                         shift and go to state 2
+    quote2                         shift and go to state 3
+    quote3                         shift and go to state 4
+    quote4                         shift and go to state 5
+    quote5                         shift and go to state 6
+    quote6                         shift and go to state 7
+    quote7                         shift and go to state 8
+    quote8                         shift and go to state 9
+    quote9                         shift and go to state 10
+    quote10                        shift and go to state 11
+    quote11                        shift and go to state 12
+    quote12                        shift and go to state 13
+    quote13                        shift and go to state 14
+    quote14                        shift and go to state 15
+    quote15                        shift and go to state 16
+    quote16                        shift and go to state 17
+    quote17                        shift and go to state 18
+    quote18                        shift and go to state 19
+    quote19                        shift and go to state 20
+    quote20                        shift and go to state 21
+    quote21                        shift and go to state 22
+    quote22                        shift and go to state 23
+    quote23                        shift and go to state 24
+    quote24                        shift and go to state 25
+    quote25                        shift and go to state 26
+
+state 1
+
+    (0) S' -> quote .
+
+
+
+state 2
+
+    (1) quote -> quote1 .
+
+    $end            reduce using rule 1 (quote -> quote1 .)
+
+
+state 3
+
+    (2) quote -> quote2 .
+
+    $end            reduce using rule 2 (quote -> quote2 .)
+
+
+state 4
+
+    (3) quote -> quote3 .
+
+    $end            reduce using rule 3 (quote -> quote3 .)
+
+
+state 5
+
+    (4) quote -> quote4 .
+
+    $end            reduce using rule 4 (quote -> quote4 .)
+
+
+state 6
+
+    (5) quote -> quote5 .
+
+    $end            reduce using rule 5 (quote -> quote5 .)
+
+
+state 7
+
+    (6) quote -> quote6 .
+
+    $end            reduce using rule 6 (quote -> quote6 .)
+
+
+state 8
+
+    (7) quote -> quote7 .
+
+    $end            reduce using rule 7 (quote -> quote7 .)
+
+
+state 9
+
+    (8) quote -> quote8 .
+
+    $end            reduce using rule 8 (quote -> quote8 .)
+
+
+state 10
+
+    (9) quote -> quote9 .
+
+    $end            reduce using rule 9 (quote -> quote9 .)
+
+
+state 11
+
+    (10) quote -> quote10 .
+
+    $end            reduce using rule 10 (quote -> quote10 .)
+
+
+state 12
+
+    (11) quote -> quote11 .
+
+    $end            reduce using rule 11 (quote -> quote11 .)
+
+
+state 13
+
+    (12) quote -> quote12 .
+
+    $end            reduce using rule 12 (quote -> quote12 .)
+
+
+state 14
+
+    (13) quote -> quote13 .
+
+    $end            reduce using rule 13 (quote -> quote13 .)
+
+
+state 15
+
+    (14) quote -> quote14 .
+
+    $end            reduce using rule 14 (quote -> quote14 .)
+
+
+state 16
+
+    (15) quote -> quote15 .
+
+    $end            reduce using rule 15 (quote -> quote15 .)
+
+
+state 17
+
+    (16) quote -> quote16 .
+
+    $end            reduce using rule 16 (quote -> quote16 .)
+
+
+state 18
+
+    (17) quote -> quote17 .
+
+    $end            reduce using rule 17 (quote -> quote17 .)
+
+
+state 19
+
+    (18) quote -> quote18 .
+
+    $end            reduce using rule 18 (quote -> quote18 .)
+
+
+state 20
+
+    (19) quote -> quote19 .
+
+    $end            reduce using rule 19 (quote -> quote19 .)
+
+
+state 21
+
+    (20) quote -> quote20 .
+
+    $end            reduce using rule 20 (quote -> quote20 .)
+
+
+state 22
+
+    (21) quote -> quote21 .
+
+    $end            reduce using rule 21 (quote -> quote21 .)
+
+
+state 23
+
+    (22) quote -> quote22 .
+
+    $end            reduce using rule 22 (quote -> quote22 .)
+
+
+state 24
+
+    (23) quote -> quote23 .
+
+    $end            reduce using rule 23 (quote -> quote23 .)
+
+
+state 25
+
+    (24) quote -> quote24 .
+
+    $end            reduce using rule 24 (quote -> quote24 .)
+
+
+state 26
+
+    (25) quote -> quote25 .
+
+    $end            reduce using rule 25 (quote -> quote25 .)
+
+
+state 27
+
+    (27) quote1 -> ISSMMAWSOUL . FI3LMADI2 MAF3OULBIH FI3LMADI
+    (41) quote16 -> ISSMMAWSOUL . FI3LMADI16 FA3IL3 ISSM9 MODAFILAYH18 7ARFISTITNA2 FI3LMODARI38 ISSMMAWSOUL FI3LMADI17 JARWAMAJROUR MAF3OULBIH6
+    (44) quote19 -> ISSMMAWSOUL . FI3LMADI18 FA3IL4 MAF3OULBIH8 7ARFNAFY3 FI3LMADI19 FA3IL5 MAF3OULBIH9
+
+    FI3LMADI2       shift and go to state 47
+    FI3LMADI16      shift and go to state 48
+    FI3LMADI18      shift and go to state 49
+
+
+state 28
+
+    (28) quote2 -> MOBTADAE1 . KHABAR1 NA3T1 WAW3ATF MOBTADAE2 KHABAR2 NA3T2 FI3LAMR1 MODAF1 MODAFILAYH1 ISSMMAJROUR1 WAW3ATF FI3LAMR2 MAF3OULBIH1 ISSMMAJROUR2
+
+    KHABAR1         shift and go to state 50
+
+
+state 29
+
+    (29) quote3 -> 7ARFNAFY1 . FI3LMODARI3 ISSMMAJROUR3 7ARFNASSB FI3LMODARI31 ISSMMAJROUR4 ISSM1 WAW3ATF2 ISSM2 ISSM3 FI3LMADI3 NA3T3 ISSM4 FI3LMADI4 WAW3ATF2 MA3TOUF ISSM5 FI3LMADI5
+
+    FI3LMODARI3     shift and go to state 51
+
+
+state 30
+
+    (26) quote4 -> KHABAR3 . MODAFILAYH2 FI3LNA9ISS FI3LMADI6 7ARFJAR5 FA3IL
+
+    MODAFILAYH2     shift and go to state 52
+
+
+state 31
+
+    (30) quote5 -> FI3LNA9ISS . FI3LMADI7 ISSMJALALA 7ARFJAR6 ISSMMAJROUR6 MODAFILAYH3 FI3LMODARI32 HARFGHAYA FI3LMADI8 7ARFJAR7 ISSMMAJROUR7 MODAFILAYH4 7ARFNASSB FI3LMODARI33
+    (31) quote6 -> FI3LNA9ISS . MOBTADAE3 KHABAR4 FI3LMODARI34
+    (33) quote8 -> FI3LNA9ISS . FI3LMADI10 FI3LMODARI35 DARF
+    (40) quote15 -> FI3LNA9ISS . FI3LMADI14 FA3IL2 MAF3OULBIH5 MOBTADAE8 FI3LMADI15 7ARFJAAR ISSMMAJROUR14 MODAFILAYH16 MA3TOUF1 MODAFILAYH17
+
+    FI3LMADI7       shift and go to state 53
+    MOBTADAE3       shift and go to state 54
+    FI3LMADI10      shift and go to state 55
+    FI3LMADI14      shift and go to state 56
+
+
+state 32
+
+    (32) quote7 -> ADATNAFY . ISSM6 ISSMMAJROUR8 7ARFJARZA2ID 7ARFJAR8 ISSMMAJROUR9 MOBTADAEMARFOU3 MODAFILAYH5 FI3LNA9ISS FI3LMADI9
+
+    ISSM6           shift and go to state 57
+
+
+state 33
+
+    (34) quote9 -> FI3LAMR3 . MAF3OULBIH2 MODAFILAYH6 7ARFISTI2NAF ISSMJALALA FI3LMADI11 FI3LMADI12 MAF3OULBIH3 7ARFJAR16 ISSMMAJROUR10
+
+    MAF3OULBIH2     shift and go to state 58
+
+
+state 34
+
+    (35) quote10 -> MOBTADAE4 . KHABAR5 MODAFILAYH7 WAW3ATF MOBTADAE5 KHABAR6 MODAFILAYH8
+
+    KHABAR5         shift and go to state 59
+
+
+state 35
+
+    (36) quote11 -> 7ARFTAWKID . ISSMICHARA ISSM7 FI3LMODARI36 7ARFJAR9 FA3IL1 FI3LMODARI37 DAMIRMOTASIL4 MAF3OULBIH4 MODAFILAYH9
+
+    ISSMICHARA      shift and go to state 60
+
+
+state 36
+
+    (37) quote12 -> 7ARFNAFY2 . ISSM8 ISSMMAJROUR11 7ARFJAR11 ISSMMAJROUR12 MODAFILAYH10
+
+    ISSM8           shift and go to state 61
+
+
+state 37
+
+    (38) quote13 -> MOBTADAE6 . MODAFILAYH11 KHABAR7 MODAFILAYH12 WAW3ATF MOBTADAE7 MODAFILAYH13 KHABAR8 MODAFILAYH14
+
+    MODAFILAYH11    shift and go to state 62
+
+
+state 38
+
+    (39) quote14 -> ISSMTAFDIL . MODAFILAYH15 FI3LNA9ISS FI3LMADI13 MOSTATNA 7ARFJAR12
+
+    MODAFILAYH15    shift and go to state 63
+
+
+state 39
+
+    (42) quote17 -> MOBTADAE9 . KHABAR9 MODAFILAYH19 WAW3ATF 7ARFNAFY2 FI3L MAF3OULBIH7 7ARFJAR16 ISSMMAJROUR15 MODAFILAYH20
+
+    KHABAR9         shift and go to state 64
+
+
+state 40
+
+    (43) quote18 -> MOBTADAE10 . 7ARFJAR13 ISSMMAJROUR16 KHABAR10 7ARFJAR14 ISSMMAJROUR17 MODAFILAYH21
+
+    7ARFJAR13       shift and go to state 65
+
+
+state 41
+
+    (45) quote20 -> MOBTADAE11 . KHABAR11 ISSMMAJROUR18 MODAFILAYH22 WAW3ATF MOBTADAE12 KHABAR12 FA3IL6 JARWAMAJROUR1 7ARFJAR15 ISSMMAJROUR19 MODAFILAYH23
+
+    KHABAR11        shift and go to state 66
+
+
+state 42
+
+    (46) quote21 -> DETERMINER . ADJECTIVE CONJUNCTION VERB PRT VERB1 PRONOUN
+
+    ADJECTIVE       shift and go to state 67
+
+
+state 43
+
+    (47) quote22 -> NOUN1 . VERB2 DETERMINER1 ADJECTIVE1 NOUN3 PREPOSITION1 DETERMINER2 NOUN4
+
+    VERB2           shift and go to state 68
+
+
+state 44
+
+    (48) quote23 -> ADJECTIVE2 . NOUN5 VERB3 ADVERB1 ADVERB2 ADJECTIVE3 CONJUNCTION1 ADJECTIVE4 NOUN6 VERB4 ADVERB3 ADJECTIVE5
+
+    NOUN5           shift and go to state 69
+
+
+state 45
+
+    (49) quote24 -> DETERMINER3 . NOUN7 PREPOSITION2 NOUN8 VERB5 DETERMINER4 NOUN9 PREPOSITION3 DETERMINER5 NOUN10
+
+    NOUN7           shift and go to state 70
+
+
+state 46
+
+    (50) quote25 -> PRONOM . SUJET1 SUJET2 VERBE ADJECTIF SUJET3 ADJECTIF2 COMPLEMENT2
+
+    SUJET1          shift and go to state 71
+
+
+state 47
+
+    (27) quote1 -> ISSMMAWSOUL FI3LMADI2 . MAF3OULBIH FI3LMADI
+
+    MAF3OULBIH      shift and go to state 72
+
+
+state 48
+
+    (41) quote16 -> ISSMMAWSOUL FI3LMADI16 . FA3IL3 ISSM9 MODAFILAYH18 7ARFISTITNA2 FI3LMODARI38 ISSMMAWSOUL FI3LMADI17 JARWAMAJROUR MAF3OULBIH6
+
+    FA3IL3          shift and go to state 73
+
+
+state 49
+
+    (44) quote19 -> ISSMMAWSOUL FI3LMADI18 . FA3IL4 MAF3OULBIH8 7ARFNAFY3 FI3LMADI19 FA3IL5 MAF3OULBIH9
+
+    FA3IL4          shift and go to state 74
+
+
+state 50
+
+    (28) quote2 -> MOBTADAE1 KHABAR1 . NA3T1 WAW3ATF MOBTADAE2 KHABAR2 NA3T2 FI3LAMR1 MODAF1 MODAFILAYH1 ISSMMAJROUR1 WAW3ATF FI3LAMR2 MAF3OULBIH1 ISSMMAJROUR2
+
+    NA3T1           shift and go to state 75
+
+
+state 51
+
+    (29) quote3 -> 7ARFNAFY1 FI3LMODARI3 . ISSMMAJROUR3 7ARFNASSB FI3LMODARI31 ISSMMAJROUR4 ISSM1 WAW3ATF2 ISSM2 ISSM3 FI3LMADI3 NA3T3 ISSM4 FI3LMADI4 WAW3ATF2 MA3TOUF ISSM5 FI3LMADI5
+
+    ISSMMAJROUR3    shift and go to state 76
+
+
+state 52
+
+    (26) quote4 -> KHABAR3 MODAFILAYH2 . FI3LNA9ISS FI3LMADI6 7ARFJAR5 FA3IL
+
+    FI3LNA9ISS      shift and go to state 77
+
+
+state 53
+
+    (30) quote5 -> FI3LNA9ISS FI3LMADI7 . ISSMJALALA 7ARFJAR6 ISSMMAJROUR6 MODAFILAYH3 FI3LMODARI32 HARFGHAYA FI3LMADI8 7ARFJAR7 ISSMMAJROUR7 MODAFILAYH4 7ARFNASSB FI3LMODARI33
+
+    ISSMJALALA      shift and go to state 78
+
+
+state 54
+
+    (31) quote6 -> FI3LNA9ISS MOBTADAE3 . KHABAR4 FI3LMODARI34
+
+    KHABAR4         shift and go to state 79
+
+
+state 55
+
+    (33) quote8 -> FI3LNA9ISS FI3LMADI10 . FI3LMODARI35 DARF
+
+    FI3LMODARI35    shift and go to state 80
+
+
+state 56
+
+    (40) quote15 -> FI3LNA9ISS FI3LMADI14 . FA3IL2 MAF3OULBIH5 MOBTADAE8 FI3LMADI15 7ARFJAAR ISSMMAJROUR14 MODAFILAYH16 MA3TOUF1 MODAFILAYH17
+
+    FA3IL2          shift and go to state 81
+
+
+state 57
+
+    (32) quote7 -> ADATNAFY ISSM6 . ISSMMAJROUR8 7ARFJARZA2ID 7ARFJAR8 ISSMMAJROUR9 MOBTADAEMARFOU3 MODAFILAYH5 FI3LNA9ISS FI3LMADI9
+
+    ISSMMAJROUR8    shift and go to state 82
+
+
+state 58
+
+    (34) quote9 -> FI3LAMR3 MAF3OULBIH2 . MODAFILAYH6 7ARFISTI2NAF ISSMJALALA FI3LMADI11 FI3LMADI12 MAF3OULBIH3 7ARFJAR16 ISSMMAJROUR10
+
+    MODAFILAYH6     shift and go to state 83
+
+
+state 59
+
+    (35) quote10 -> MOBTADAE4 KHABAR5 . MODAFILAYH7 WAW3ATF MOBTADAE5 KHABAR6 MODAFILAYH8
+
+    MODAFILAYH7     shift and go to state 84
+
+
+state 60
+
+    (36) quote11 -> 7ARFTAWKID ISSMICHARA . ISSM7 FI3LMODARI36 7ARFJAR9 FA3IL1 FI3LMODARI37 DAMIRMOTASIL4 MAF3OULBIH4 MODAFILAYH9
+
+    ISSM7           shift and go to state 85
+
+
+state 61
+
+    (37) quote12 -> 7ARFNAFY2 ISSM8 . ISSMMAJROUR11 7ARFJAR11 ISSMMAJROUR12 MODAFILAYH10
+
+    ISSMMAJROUR11   shift and go to state 86
+
+
+state 62
+
+    (38) quote13 -> MOBTADAE6 MODAFILAYH11 . KHABAR7 MODAFILAYH12 WAW3ATF MOBTADAE7 MODAFILAYH13 KHABAR8 MODAFILAYH14
+
+    KHABAR7         shift and go to state 87
+
+
+state 63
+
+    (39) quote14 -> ISSMTAFDIL MODAFILAYH15 . FI3LNA9ISS FI3LMADI13 MOSTATNA 7ARFJAR12
+
+    FI3LNA9ISS      shift and go to state 88
+
+
+state 64
+
+    (42) quote17 -> MOBTADAE9 KHABAR9 . MODAFILAYH19 WAW3ATF 7ARFNAFY2 FI3L MAF3OULBIH7 7ARFJAR16 ISSMMAJROUR15 MODAFILAYH20
+
+    MODAFILAYH19    shift and go to state 89
+
+
+state 65
+
+    (43) quote18 -> MOBTADAE10 7ARFJAR13 . ISSMMAJROUR16 KHABAR10 7ARFJAR14 ISSMMAJROUR17 MODAFILAYH21
+
+    ISSMMAJROUR16   shift and go to state 90
+
+
+state 66
+
+    (45) quote20 -> MOBTADAE11 KHABAR11 . ISSMMAJROUR18 MODAFILAYH22 WAW3ATF MOBTADAE12 KHABAR12 FA3IL6 JARWAMAJROUR1 7ARFJAR15 ISSMMAJROUR19 MODAFILAYH23
+
+    ISSMMAJROUR18   shift and go to state 91
+
+
+state 67
+
+    (46) quote21 -> DETERMINER ADJECTIVE . CONJUNCTION VERB PRT VERB1 PRONOUN
+
+    CONJUNCTION     shift and go to state 92
+
+
+state 68
+
+    (47) quote22 -> NOUN1 VERB2 . DETERMINER1 ADJECTIVE1 NOUN3 PREPOSITION1 DETERMINER2 NOUN4
+
+    DETERMINER1     shift and go to state 93
+
+
+state 69
+
+    (48) quote23 -> ADJECTIVE2 NOUN5 . VERB3 ADVERB1 ADVERB2 ADJECTIVE3 CONJUNCTION1 ADJECTIVE4 NOUN6 VERB4 ADVERB3 ADJECTIVE5
+
+    VERB3           shift and go to state 94
+
+
+state 70
+
+    (49) quote24 -> DETERMINER3 NOUN7 . PREPOSITION2 NOUN8 VERB5 DETERMINER4 NOUN9 PREPOSITION3 DETERMINER5 NOUN10
+
+    PREPOSITION2    shift and go to state 95
+
+
+state 71
+
+    (50) quote25 -> PRONOM SUJET1 . SUJET2 VERBE ADJECTIF SUJET3 ADJECTIF2 COMPLEMENT2
+
+    SUJET2          shift and go to state 96
+
+
+state 72
+
+    (27) quote1 -> ISSMMAWSOUL FI3LMADI2 MAF3OULBIH . FI3LMADI
+
+    FI3LMADI        shift and go to state 97
+
+
+state 73
+
+    (41) quote16 -> ISSMMAWSOUL FI3LMADI16 FA3IL3 . ISSM9 MODAFILAYH18 7ARFISTITNA2 FI3LMODARI38 ISSMMAWSOUL FI3LMADI17 JARWAMAJROUR MAF3OULBIH6
+
+    ISSM9           shift and go to state 98
+
+
+state 74
+
+    (44) quote19 -> ISSMMAWSOUL FI3LMADI18 FA3IL4 . MAF3OULBIH8 7ARFNAFY3 FI3LMADI19 FA3IL5 MAF3OULBIH9
+
+    MAF3OULBIH8     shift and go to state 99
+
+
+state 75
+
+    (28) quote2 -> MOBTADAE1 KHABAR1 NA3T1 . WAW3ATF MOBTADAE2 KHABAR2 NA3T2 FI3LAMR1 MODAF1 MODAFILAYH1 ISSMMAJROUR1 WAW3ATF FI3LAMR2 MAF3OULBIH1 ISSMMAJROUR2
+
+    WAW3ATF         shift and go to state 100
+
+
+state 76
+
+    (29) quote3 -> 7ARFNAFY1 FI3LMODARI3 ISSMMAJROUR3 . 7ARFNASSB FI3LMODARI31 ISSMMAJROUR4 ISSM1 WAW3ATF2 ISSM2 ISSM3 FI3LMADI3 NA3T3 ISSM4 FI3LMADI4 WAW3ATF2 MA3TOUF ISSM5 FI3LMADI5
+
+    7ARFNASSB       shift and go to state 101
+
+
+state 77
+
+    (26) quote4 -> KHABAR3 MODAFILAYH2 FI3LNA9ISS . FI3LMADI6 7ARFJAR5 FA3IL
+
+    FI3LMADI6       shift and go to state 102
+
+
+state 78
+
+    (30) quote5 -> FI3LNA9ISS FI3LMADI7 ISSMJALALA . 7ARFJAR6 ISSMMAJROUR6 MODAFILAYH3 FI3LMODARI32 HARFGHAYA FI3LMADI8 7ARFJAR7 ISSMMAJROUR7 MODAFILAYH4 7ARFNASSB FI3LMODARI33
+
+    7ARFJAR6        shift and go to state 103
+
+
+state 79
+
+    (31) quote6 -> FI3LNA9ISS MOBTADAE3 KHABAR4 . FI3LMODARI34
+
+    FI3LMODARI34    shift and go to state 104
+
+
+state 80
+
+    (33) quote8 -> FI3LNA9ISS FI3LMADI10 FI3LMODARI35 . DARF
+
+    DARF            shift and go to state 105
+
+
+state 81
+
+    (40) quote15 -> FI3LNA9ISS FI3LMADI14 FA3IL2 . MAF3OULBIH5 MOBTADAE8 FI3LMADI15 7ARFJAAR ISSMMAJROUR14 MODAFILAYH16 MA3TOUF1 MODAFILAYH17
+
+    MAF3OULBIH5     shift and go to state 106
+
+
+state 82
+
+    (32) quote7 -> ADATNAFY ISSM6 ISSMMAJROUR8 . 7ARFJARZA2ID 7ARFJAR8 ISSMMAJROUR9 MOBTADAEMARFOU3 MODAFILAYH5 FI3LNA9ISS FI3LMADI9
+
+    7ARFJARZA2ID    shift and go to state 107
+
+
+state 83
+
+    (34) quote9 -> FI3LAMR3 MAF3OULBIH2 MODAFILAYH6 . 7ARFISTI2NAF ISSMJALALA FI3LMADI11 FI3LMADI12 MAF3OULBIH3 7ARFJAR16 ISSMMAJROUR10
+
+    7ARFISTI2NAF    shift and go to state 108
+
+
+state 84
+
+    (35) quote10 -> MOBTADAE4 KHABAR5 MODAFILAYH7 . WAW3ATF MOBTADAE5 KHABAR6 MODAFILAYH8
+
+    WAW3ATF         shift and go to state 109
+
+
+state 85
+
+    (36) quote11 -> 7ARFTAWKID ISSMICHARA ISSM7 . FI3LMODARI36 7ARFJAR9 FA3IL1 FI3LMODARI37 DAMIRMOTASIL4 MAF3OULBIH4 MODAFILAYH9
+
+    FI3LMODARI36    shift and go to state 110
+
+
+state 86
+
+    (37) quote12 -> 7ARFNAFY2 ISSM8 ISSMMAJROUR11 . 7ARFJAR11 ISSMMAJROUR12 MODAFILAYH10
+
+    7ARFJAR11       shift and go to state 111
+
+
+state 87
+
+    (38) quote13 -> MOBTADAE6 MODAFILAYH11 KHABAR7 . MODAFILAYH12 WAW3ATF MOBTADAE7 MODAFILAYH13 KHABAR8 MODAFILAYH14
+
+    MODAFILAYH12    shift and go to state 112
+
+
+state 88
+
+    (39) quote14 -> ISSMTAFDIL MODAFILAYH15 FI3LNA9ISS . FI3LMADI13 MOSTATNA 7ARFJAR12
+
+    FI3LMADI13      shift and go to state 113
+
+
+state 89
+
+    (42) quote17 -> MOBTADAE9 KHABAR9 MODAFILAYH19 . WAW3ATF 7ARFNAFY2 FI3L MAF3OULBIH7 7ARFJAR16 ISSMMAJROUR15 MODAFILAYH20
+
+    WAW3ATF         shift and go to state 114
+
+
+state 90
+
+    (43) quote18 -> MOBTADAE10 7ARFJAR13 ISSMMAJROUR16 . KHABAR10 7ARFJAR14 ISSMMAJROUR17 MODAFILAYH21
+
+    KHABAR10        shift and go to state 115
+
+
+state 91
+
+    (45) quote20 -> MOBTADAE11 KHABAR11 ISSMMAJROUR18 . MODAFILAYH22 WAW3ATF MOBTADAE12 KHABAR12 FA3IL6 JARWAMAJROUR1 7ARFJAR15 ISSMMAJROUR19 MODAFILAYH23
+
+    MODAFILAYH22    shift and go to state 116
+
+
+state 92
+
+    (46) quote21 -> DETERMINER ADJECTIVE CONJUNCTION . VERB PRT VERB1 PRONOUN
+
+    VERB            shift and go to state 117
+
+
+state 93
+
+    (47) quote22 -> NOUN1 VERB2 DETERMINER1 . ADJECTIVE1 NOUN3 PREPOSITION1 DETERMINER2 NOUN4
+
+    ADJECTIVE1      shift and go to state 118
+
+
+state 94
+
+    (48) quote23 -> ADJECTIVE2 NOUN5 VERB3 . ADVERB1 ADVERB2 ADJECTIVE3 CONJUNCTION1 ADJECTIVE4 NOUN6 VERB4 ADVERB3 ADJECTIVE5
+
+    ADVERB1         shift and go to state 119
+
+
+state 95
+
+    (49) quote24 -> DETERMINER3 NOUN7 PREPOSITION2 . NOUN8 VERB5 DETERMINER4 NOUN9 PREPOSITION3 DETERMINER5 NOUN10
+
+    NOUN8           shift and go to state 120
+
+
+state 96
+
+    (50) quote25 -> PRONOM SUJET1 SUJET2 . VERBE ADJECTIF SUJET3 ADJECTIF2 COMPLEMENT2
+
+    VERBE           shift and go to state 121
+
+
+state 97
+
+    (27) quote1 -> ISSMMAWSOUL FI3LMADI2 MAF3OULBIH FI3LMADI .
+
+    $end            reduce using rule 27 (quote1 -> ISSMMAWSOUL FI3LMADI2 MAF3OULBIH FI3LMADI .)
+
+
+state 98
+
+    (41) quote16 -> ISSMMAWSOUL FI3LMADI16 FA3IL3 ISSM9 . MODAFILAYH18 7ARFISTITNA2 FI3LMODARI38 ISSMMAWSOUL FI3LMADI17 JARWAMAJROUR MAF3OULBIH6
+
+    MODAFILAYH18    shift and go to state 122
+
+
+state 99
+
+    (44) quote19 -> ISSMMAWSOUL FI3LMADI18 FA3IL4 MAF3OULBIH8 . 7ARFNAFY3 FI3LMADI19 FA3IL5 MAF3OULBIH9
+
+    7ARFNAFY3       shift and go to state 123
+
+
+state 100
+
+    (28) quote2 -> MOBTADAE1 KHABAR1 NA3T1 WAW3ATF . MOBTADAE2 KHABAR2 NA3T2 FI3LAMR1 MODAF1 MODAFILAYH1 ISSMMAJROUR1 WAW3ATF FI3LAMR2 MAF3OULBIH1 ISSMMAJROUR2
+
+    MOBTADAE2       shift and go to state 124
+
+
+state 101
+
+    (29) quote3 -> 7ARFNAFY1 FI3LMODARI3 ISSMMAJROUR3 7ARFNASSB . FI3LMODARI31 ISSMMAJROUR4 ISSM1 WAW3ATF2 ISSM2 ISSM3 FI3LMADI3 NA3T3 ISSM4 FI3LMADI4 WAW3ATF2 MA3TOUF ISSM5 FI3LMADI5
+
+    FI3LMODARI31    shift and go to state 125
+
+
+state 102
+
+    (26) quote4 -> KHABAR3 MODAFILAYH2 FI3LNA9ISS FI3LMADI6 . 7ARFJAR5 FA3IL
+
+    7ARFJAR5        shift and go to state 126
+
+
+state 103
+
+    (30) quote5 -> FI3LNA9ISS FI3LMADI7 ISSMJALALA 7ARFJAR6 . ISSMMAJROUR6 MODAFILAYH3 FI3LMODARI32 HARFGHAYA FI3LMADI8 7ARFJAR7 ISSMMAJROUR7 MODAFILAYH4 7ARFNASSB FI3LMODARI33
+
+    ISSMMAJROUR6    shift and go to state 127
+
+
+state 104
+
+    (31) quote6 -> FI3LNA9ISS MOBTADAE3 KHABAR4 FI3LMODARI34 .
+
+    $end            reduce using rule 31 (quote6 -> FI3LNA9ISS MOBTADAE3 KHABAR4 FI3LMODARI34 .)
+
+
+state 105
+
+    (33) quote8 -> FI3LNA9ISS FI3LMADI10 FI3LMODARI35 DARF .
+
+    $end            reduce using rule 33 (quote8 -> FI3LNA9ISS FI3LMADI10 FI3LMODARI35 DARF .)
+
+
+state 106
+
+    (40) quote15 -> FI3LNA9ISS FI3LMADI14 FA3IL2 MAF3OULBIH5 . MOBTADAE8 FI3LMADI15 7ARFJAAR ISSMMAJROUR14 MODAFILAYH16 MA3TOUF1 MODAFILAYH17
+
+    MOBTADAE8       shift and go to state 128
+
+
+state 107
+
+    (32) quote7 -> ADATNAFY ISSM6 ISSMMAJROUR8 7ARFJARZA2ID . 7ARFJAR8 ISSMMAJROUR9 MOBTADAEMARFOU3 MODAFILAYH5 FI3LNA9ISS FI3LMADI9
+
+    7ARFJAR8        shift and go to state 129
+
+
+state 108
+
+    (34) quote9 -> FI3LAMR3 MAF3OULBIH2 MODAFILAYH6 7ARFISTI2NAF . ISSMJALALA FI3LMADI11 FI3LMADI12 MAF3OULBIH3 7ARFJAR16 ISSMMAJROUR10
+
+    ISSMJALALA      shift and go to state 130
+
+
+state 109
+
+    (35) quote10 -> MOBTADAE4 KHABAR5 MODAFILAYH7 WAW3ATF . MOBTADAE5 KHABAR6 MODAFILAYH8
+
+    MOBTADAE5       shift and go to state 131
+
+
+state 110
+
+    (36) quote11 -> 7ARFTAWKID ISSMICHARA ISSM7 FI3LMODARI36 . 7ARFJAR9 FA3IL1 FI3LMODARI37 DAMIRMOTASIL4 MAF3OULBIH4 MODAFILAYH9
+
+    7ARFJAR9        shift and go to state 132
+
+
+state 111
+
+    (37) quote12 -> 7ARFNAFY2 ISSM8 ISSMMAJROUR11 7ARFJAR11 . ISSMMAJROUR12 MODAFILAYH10
+
+    ISSMMAJROUR12   shift and go to state 133
+
+
+state 112
+
+    (38) quote13 -> MOBTADAE6 MODAFILAYH11 KHABAR7 MODAFILAYH12 . WAW3ATF MOBTADAE7 MODAFILAYH13 KHABAR8 MODAFILAYH14
+
+    WAW3ATF         shift and go to state 134
+
+
+state 113
+
+    (39) quote14 -> ISSMTAFDIL MODAFILAYH15 FI3LNA9ISS FI3LMADI13 . MOSTATNA 7ARFJAR12
+
+    MOSTATNA        shift and go to state 135
+
+
+state 114
+
+    (42) quote17 -> MOBTADAE9 KHABAR9 MODAFILAYH19 WAW3ATF . 7ARFNAFY2 FI3L MAF3OULBIH7 7ARFJAR16 ISSMMAJROUR15 MODAFILAYH20
+
+    7ARFNAFY2       shift and go to state 136
+
+
+state 115
+
+    (43) quote18 -> MOBTADAE10 7ARFJAR13 ISSMMAJROUR16 KHABAR10 . 7ARFJAR14 ISSMMAJROUR17 MODAFILAYH21
+
+    7ARFJAR14       shift and go to state 137
+
+
+state 116
+
+    (45) quote20 -> MOBTADAE11 KHABAR11 ISSMMAJROUR18 MODAFILAYH22 . WAW3ATF MOBTADAE12 KHABAR12 FA3IL6 JARWAMAJROUR1 7ARFJAR15 ISSMMAJROUR19 MODAFILAYH23
+
+    WAW3ATF         shift and go to state 138
+
+
+state 117
+
+    (46) quote21 -> DETERMINER ADJECTIVE CONJUNCTION VERB . PRT VERB1 PRONOUN
+
+    PRT             shift and go to state 139
+
+
+state 118
+
+    (47) quote22 -> NOUN1 VERB2 DETERMINER1 ADJECTIVE1 . NOUN3 PREPOSITION1 DETERMINER2 NOUN4
+
+    NOUN3           shift and go to state 140
+
+
+state 119
+
+    (48) quote23 -> ADJECTIVE2 NOUN5 VERB3 ADVERB1 . ADVERB2 ADJECTIVE3 CONJUNCTION1 ADJECTIVE4 NOUN6 VERB4 ADVERB3 ADJECTIVE5
+
+    ADVERB2         shift and go to state 141
+
+
+state 120
+
+    (49) quote24 -> DETERMINER3 NOUN7 PREPOSITION2 NOUN8 . VERB5 DETERMINER4 NOUN9 PREPOSITION3 DETERMINER5 NOUN10
+
+    VERB5           shift and go to state 142
+
+
+state 121
+
+    (50) quote25 -> PRONOM SUJET1 SUJET2 VERBE . ADJECTIF SUJET3 ADJECTIF2 COMPLEMENT2
+
+    ADJECTIF        shift and go to state 143
+
+
+state 122
+
+    (41) quote16 -> ISSMMAWSOUL FI3LMADI16 FA3IL3 ISSM9 MODAFILAYH18 . 7ARFISTITNA2 FI3LMODARI38 ISSMMAWSOUL FI3LMADI17 JARWAMAJROUR MAF3OULBIH6
+
+    7ARFISTITNA2    shift and go to state 144
+
+
+state 123
+
+    (44) quote19 -> ISSMMAWSOUL FI3LMADI18 FA3IL4 MAF3OULBIH8 7ARFNAFY3 . FI3LMADI19 FA3IL5 MAF3OULBIH9
+
+    FI3LMADI19      shift and go to state 145
+
+
+state 124
+
+    (28) quote2 -> MOBTADAE1 KHABAR1 NA3T1 WAW3ATF MOBTADAE2 . KHABAR2 NA3T2 FI3LAMR1 MODAF1 MODAFILAYH1 ISSMMAJROUR1 WAW3ATF FI3LAMR2 MAF3OULBIH1 ISSMMAJROUR2
+
+    KHABAR2         shift and go to state 146
+
+
+state 125
+
+    (29) quote3 -> 7ARFNAFY1 FI3LMODARI3 ISSMMAJROUR3 7ARFNASSB FI3LMODARI31 . ISSMMAJROUR4 ISSM1 WAW3ATF2 ISSM2 ISSM3 FI3LMADI3 NA3T3 ISSM4 FI3LMADI4 WAW3ATF2 MA3TOUF ISSM5 FI3LMADI5
+
+    ISSMMAJROUR4    shift and go to state 147
+
+
+state 126
+
+    (26) quote4 -> KHABAR3 MODAFILAYH2 FI3LNA9ISS FI3LMADI6 7ARFJAR5 . FA3IL
+
+    FA3IL           shift and go to state 148
+
+
+state 127
+
+    (30) quote5 -> FI3LNA9ISS FI3LMADI7 ISSMJALALA 7ARFJAR6 ISSMMAJROUR6 . MODAFILAYH3 FI3LMODARI32 HARFGHAYA FI3LMADI8 7ARFJAR7 ISSMMAJROUR7 MODAFILAYH4 7ARFNASSB FI3LMODARI33
+
+    MODAFILAYH3     shift and go to state 149
+
+
+state 128
+
+    (40) quote15 -> FI3LNA9ISS FI3LMADI14 FA3IL2 MAF3OULBIH5 MOBTADAE8 . FI3LMADI15 7ARFJAAR ISSMMAJROUR14 MODAFILAYH16 MA3TOUF1 MODAFILAYH17
+
+    FI3LMADI15      shift and go to state 150
+
+
+state 129
+
+    (32) quote7 -> ADATNAFY ISSM6 ISSMMAJROUR8 7ARFJARZA2ID 7ARFJAR8 . ISSMMAJROUR9 MOBTADAEMARFOU3 MODAFILAYH5 FI3LNA9ISS FI3LMADI9
+
+    ISSMMAJROUR9    shift and go to state 151
+
+
+state 130
+
+    (34) quote9 -> FI3LAMR3 MAF3OULBIH2 MODAFILAYH6 7ARFISTI2NAF ISSMJALALA . FI3LMADI11 FI3LMADI12 MAF3OULBIH3 7ARFJAR16 ISSMMAJROUR10
+
+    FI3LMADI11      shift and go to state 152
+
+
+state 131
+
+    (35) quote10 -> MOBTADAE4 KHABAR5 MODAFILAYH7 WAW3ATF MOBTADAE5 . KHABAR6 MODAFILAYH8
+
+    KHABAR6         shift and go to state 153
+
+
+state 132
+
+    (36) quote11 -> 7ARFTAWKID ISSMICHARA ISSM7 FI3LMODARI36 7ARFJAR9 . FA3IL1 FI3LMODARI37 DAMIRMOTASIL4 MAF3OULBIH4 MODAFILAYH9
+
+    FA3IL1          shift and go to state 154
+
+
+state 133
+
+    (37) quote12 -> 7ARFNAFY2 ISSM8 ISSMMAJROUR11 7ARFJAR11 ISSMMAJROUR12 . MODAFILAYH10
+
+    MODAFILAYH10    shift and go to state 155
+
+
+state 134
+
+    (38) quote13 -> MOBTADAE6 MODAFILAYH11 KHABAR7 MODAFILAYH12 WAW3ATF . MOBTADAE7 MODAFILAYH13 KHABAR8 MODAFILAYH14
+
+    MOBTADAE7       shift and go to state 156
+
+
+state 135
+
+    (39) quote14 -> ISSMTAFDIL MODAFILAYH15 FI3LNA9ISS FI3LMADI13 MOSTATNA . 7ARFJAR12
+
+    7ARFJAR12       shift and go to state 157
+
+
+state 136
+
+    (42) quote17 -> MOBTADAE9 KHABAR9 MODAFILAYH19 WAW3ATF 7ARFNAFY2 . FI3L MAF3OULBIH7 7ARFJAR16 ISSMMAJROUR15 MODAFILAYH20
+
+    FI3L            shift and go to state 158
+
+
+state 137
+
+    (43) quote18 -> MOBTADAE10 7ARFJAR13 ISSMMAJROUR16 KHABAR10 7ARFJAR14 . ISSMMAJROUR17 MODAFILAYH21
+
+    ISSMMAJROUR17   shift and go to state 159
+
+
+state 138
+
+    (45) quote20 -> MOBTADAE11 KHABAR11 ISSMMAJROUR18 MODAFILAYH22 WAW3ATF . MOBTADAE12 KHABAR12 FA3IL6 JARWAMAJROUR1 7ARFJAR15 ISSMMAJROUR19 MODAFILAYH23
+
+    MOBTADAE12      shift and go to state 160
+
+
+state 139
+
+    (46) quote21 -> DETERMINER ADJECTIVE CONJUNCTION VERB PRT . VERB1 PRONOUN
+
+    VERB1           shift and go to state 161
+
+
+state 140
+
+    (47) quote22 -> NOUN1 VERB2 DETERMINER1 ADJECTIVE1 NOUN3 . PREPOSITION1 DETERMINER2 NOUN4
+
+    PREPOSITION1    shift and go to state 162
+
+
+state 141
+
+    (48) quote23 -> ADJECTIVE2 NOUN5 VERB3 ADVERB1 ADVERB2 . ADJECTIVE3 CONJUNCTION1 ADJECTIVE4 NOUN6 VERB4 ADVERB3 ADJECTIVE5
+
+    ADJECTIVE3      shift and go to state 163
+
+
+state 142
+
+    (49) quote24 -> DETERMINER3 NOUN7 PREPOSITION2 NOUN8 VERB5 . DETERMINER4 NOUN9 PREPOSITION3 DETERMINER5 NOUN10
+
+    DETERMINER4     shift and go to state 164
+
+
+state 143
+
+    (50) quote25 -> PRONOM SUJET1 SUJET2 VERBE ADJECTIF . SUJET3 ADJECTIF2 COMPLEMENT2
+
+    SUJET3          shift and go to state 165
+
+
+state 144
+
+    (41) quote16 -> ISSMMAWSOUL FI3LMADI16 FA3IL3 ISSM9 MODAFILAYH18 7ARFISTITNA2 . FI3LMODARI38 ISSMMAWSOUL FI3LMADI17 JARWAMAJROUR MAF3OULBIH6
+
+    FI3LMODARI38    shift and go to state 166
+
+
+state 145
+
+    (44) quote19 -> ISSMMAWSOUL FI3LMADI18 FA3IL4 MAF3OULBIH8 7ARFNAFY3 FI3LMADI19 . FA3IL5 MAF3OULBIH9
+
+    FA3IL5          shift and go to state 167
+
+
+state 146
+
+    (28) quote2 -> MOBTADAE1 KHABAR1 NA3T1 WAW3ATF MOBTADAE2 KHABAR2 . NA3T2 FI3LAMR1 MODAF1 MODAFILAYH1 ISSMMAJROUR1 WAW3ATF FI3LAMR2 MAF3OULBIH1 ISSMMAJROUR2
+
+    NA3T2           shift and go to state 168
+
+
+state 147
+
+    (29) quote3 -> 7ARFNAFY1 FI3LMODARI3 ISSMMAJROUR3 7ARFNASSB FI3LMODARI31 ISSMMAJROUR4 . ISSM1 WAW3ATF2 ISSM2 ISSM3 FI3LMADI3 NA3T3 ISSM4 FI3LMADI4 WAW3ATF2 MA3TOUF ISSM5 FI3LMADI5
+
+    ISSM1           shift and go to state 169
+
+
+state 148
+
+    (26) quote4 -> KHABAR3 MODAFILAYH2 FI3LNA9ISS FI3LMADI6 7ARFJAR5 FA3IL .
+
+    $end            reduce using rule 26 (quote4 -> KHABAR3 MODAFILAYH2 FI3LNA9ISS FI3LMADI6 7ARFJAR5 FA3IL .)
+
+
+state 149
+
+    (30) quote5 -> FI3LNA9ISS FI3LMADI7 ISSMJALALA 7ARFJAR6 ISSMMAJROUR6 MODAFILAYH3 . FI3LMODARI32 HARFGHAYA FI3LMADI8 7ARFJAR7 ISSMMAJROUR7 MODAFILAYH4 7ARFNASSB FI3LMODARI33
+
+    FI3LMODARI32    shift and go to state 170
+
+
+state 150
+
+    (40) quote15 -> FI3LNA9ISS FI3LMADI14 FA3IL2 MAF3OULBIH5 MOBTADAE8 FI3LMADI15 . 7ARFJAAR ISSMMAJROUR14 MODAFILAYH16 MA3TOUF1 MODAFILAYH17
+
+    7ARFJAAR        shift and go to state 171
+
+
+state 151
+
+    (32) quote7 -> ADATNAFY ISSM6 ISSMMAJROUR8 7ARFJARZA2ID 7ARFJAR8 ISSMMAJROUR9 . MOBTADAEMARFOU3 MODAFILAYH5 FI3LNA9ISS FI3LMADI9
+
+    MOBTADAEMARFOU3 shift and go to state 172
+
+
+state 152
+
+    (34) quote9 -> FI3LAMR3 MAF3OULBIH2 MODAFILAYH6 7ARFISTI2NAF ISSMJALALA FI3LMADI11 . FI3LMADI12 MAF3OULBIH3 7ARFJAR16 ISSMMAJROUR10
+
+    FI3LMADI12      shift and go to state 173
+
+
+state 153
+
+    (35) quote10 -> MOBTADAE4 KHABAR5 MODAFILAYH7 WAW3ATF MOBTADAE5 KHABAR6 . MODAFILAYH8
+
+    MODAFILAYH8     shift and go to state 174
+
+
+state 154
+
+    (36) quote11 -> 7ARFTAWKID ISSMICHARA ISSM7 FI3LMODARI36 7ARFJAR9 FA3IL1 . FI3LMODARI37 DAMIRMOTASIL4 MAF3OULBIH4 MODAFILAYH9
+
+    FI3LMODARI37    shift and go to state 175
+
+
+state 155
+
+    (37) quote12 -> 7ARFNAFY2 ISSM8 ISSMMAJROUR11 7ARFJAR11 ISSMMAJROUR12 MODAFILAYH10 .
+
+    $end            reduce using rule 37 (quote12 -> 7ARFNAFY2 ISSM8 ISSMMAJROUR11 7ARFJAR11 ISSMMAJROUR12 MODAFILAYH10 .)
+
+
+state 156
+
+    (38) quote13 -> MOBTADAE6 MODAFILAYH11 KHABAR7 MODAFILAYH12 WAW3ATF MOBTADAE7 . MODAFILAYH13 KHABAR8 MODAFILAYH14
+
+    MODAFILAYH13    shift and go to state 176
+
+
+state 157
+
+    (39) quote14 -> ISSMTAFDIL MODAFILAYH15 FI3LNA9ISS FI3LMADI13 MOSTATNA 7ARFJAR12 .
+
+    $end            reduce using rule 39 (quote14 -> ISSMTAFDIL MODAFILAYH15 FI3LNA9ISS FI3LMADI13 MOSTATNA 7ARFJAR12 .)
+
+
+state 158
+
+    (42) quote17 -> MOBTADAE9 KHABAR9 MODAFILAYH19 WAW3ATF 7ARFNAFY2 FI3L . MAF3OULBIH7 7ARFJAR16 ISSMMAJROUR15 MODAFILAYH20
+
+    MAF3OULBIH7     shift and go to state 177
+
+
+state 159
+
+    (43) quote18 -> MOBTADAE10 7ARFJAR13 ISSMMAJROUR16 KHABAR10 7ARFJAR14 ISSMMAJROUR17 . MODAFILAYH21
+
+    MODAFILAYH21    shift and go to state 178
+
+
+state 160
+
+    (45) quote20 -> MOBTADAE11 KHABAR11 ISSMMAJROUR18 MODAFILAYH22 WAW3ATF MOBTADAE12 . KHABAR12 FA3IL6 JARWAMAJROUR1 7ARFJAR15 ISSMMAJROUR19 MODAFILAYH23
+
+    KHABAR12        shift and go to state 179
+
+
+state 161
+
+    (46) quote21 -> DETERMINER ADJECTIVE CONJUNCTION VERB PRT VERB1 . PRONOUN
+
+    PRONOUN         shift and go to state 180
+
+
+state 162
+
+    (47) quote22 -> NOUN1 VERB2 DETERMINER1 ADJECTIVE1 NOUN3 PREPOSITION1 . DETERMINER2 NOUN4
+
+    DETERMINER2     shift and go to state 181
+
+
+state 163
+
+    (48) quote23 -> ADJECTIVE2 NOUN5 VERB3 ADVERB1 ADVERB2 ADJECTIVE3 . CONJUNCTION1 ADJECTIVE4 NOUN6 VERB4 ADVERB3 ADJECTIVE5
+
+    CONJUNCTION1    shift and go to state 182
+
+
+state 164
+
+    (49) quote24 -> DETERMINER3 NOUN7 PREPOSITION2 NOUN8 VERB5 DETERMINER4 . NOUN9 PREPOSITION3 DETERMINER5 NOUN10
+
+    NOUN9           shift and go to state 183
+
+
+state 165
+
+    (50) quote25 -> PRONOM SUJET1 SUJET2 VERBE ADJECTIF SUJET3 . ADJECTIF2 COMPLEMENT2
+
+    ADJECTIF2       shift and go to state 184
+
+
+state 166
+
+    (41) quote16 -> ISSMMAWSOUL FI3LMADI16 FA3IL3 ISSM9 MODAFILAYH18 7ARFISTITNA2 FI3LMODARI38 . ISSMMAWSOUL FI3LMADI17 JARWAMAJROUR MAF3OULBIH6
+
+    ISSMMAWSOUL     shift and go to state 185
+
+
+state 167
+
+    (44) quote19 -> ISSMMAWSOUL FI3LMADI18 FA3IL4 MAF3OULBIH8 7ARFNAFY3 FI3LMADI19 FA3IL5 . MAF3OULBIH9
+
+    MAF3OULBIH9     shift and go to state 186
+
+
+state 168
+
+    (28) quote2 -> MOBTADAE1 KHABAR1 NA3T1 WAW3ATF MOBTADAE2 KHABAR2 NA3T2 . FI3LAMR1 MODAF1 MODAFILAYH1 ISSMMAJROUR1 WAW3ATF FI3LAMR2 MAF3OULBIH1 ISSMMAJROUR2
+
+    FI3LAMR1        shift and go to state 187
+
+
+state 169
+
+    (29) quote3 -> 7ARFNAFY1 FI3LMODARI3 ISSMMAJROUR3 7ARFNASSB FI3LMODARI31 ISSMMAJROUR4 ISSM1 . WAW3ATF2 ISSM2 ISSM3 FI3LMADI3 NA3T3 ISSM4 FI3LMADI4 WAW3ATF2 MA3TOUF ISSM5 FI3LMADI5
+
+    WAW3ATF2        shift and go to state 188
+
+
+state 170
+
+    (30) quote5 -> FI3LNA9ISS FI3LMADI7 ISSMJALALA 7ARFJAR6 ISSMMAJROUR6 MODAFILAYH3 FI3LMODARI32 . HARFGHAYA FI3LMADI8 7ARFJAR7 ISSMMAJROUR7 MODAFILAYH4 7ARFNASSB FI3LMODARI33
+
+    HARFGHAYA       shift and go to state 189
+
+
+state 171
+
+    (40) quote15 -> FI3LNA9ISS FI3LMADI14 FA3IL2 MAF3OULBIH5 MOBTADAE8 FI3LMADI15 7ARFJAAR . ISSMMAJROUR14 MODAFILAYH16 MA3TOUF1 MODAFILAYH17
+
+    ISSMMAJROUR14   shift and go to state 190
+
+
+state 172
+
+    (32) quote7 -> ADATNAFY ISSM6 ISSMMAJROUR8 7ARFJARZA2ID 7ARFJAR8 ISSMMAJROUR9 MOBTADAEMARFOU3 . MODAFILAYH5 FI3LNA9ISS FI3LMADI9
+
+    MODAFILAYH5     shift and go to state 191
+
+
+state 173
+
+    (34) quote9 -> FI3LAMR3 MAF3OULBIH2 MODAFILAYH6 7ARFISTI2NAF ISSMJALALA FI3LMADI11 FI3LMADI12 . MAF3OULBIH3 7ARFJAR16 ISSMMAJROUR10
+
+    MAF3OULBIH3     shift and go to state 192
+
+
+state 174
+
+    (35) quote10 -> MOBTADAE4 KHABAR5 MODAFILAYH7 WAW3ATF MOBTADAE5 KHABAR6 MODAFILAYH8 .
+
+    $end            reduce using rule 35 (quote10 -> MOBTADAE4 KHABAR5 MODAFILAYH7 WAW3ATF MOBTADAE5 KHABAR6 MODAFILAYH8 .)
+
+
+state 175
+
+    (36) quote11 -> 7ARFTAWKID ISSMICHARA ISSM7 FI3LMODARI36 7ARFJAR9 FA3IL1 FI3LMODARI37 . DAMIRMOTASIL4 MAF3OULBIH4 MODAFILAYH9
+
+    DAMIRMOTASIL4   shift and go to state 193
+
+
+state 176
+
+    (38) quote13 -> MOBTADAE6 MODAFILAYH11 KHABAR7 MODAFILAYH12 WAW3ATF MOBTADAE7 MODAFILAYH13 . KHABAR8 MODAFILAYH14
+
+    KHABAR8         shift and go to state 194
+
+
+state 177
+
+    (42) quote17 -> MOBTADAE9 KHABAR9 MODAFILAYH19 WAW3ATF 7ARFNAFY2 FI3L MAF3OULBIH7 . 7ARFJAR16 ISSMMAJROUR15 MODAFILAYH20
+
+    7ARFJAR16       shift and go to state 195
+
+
+state 178
+
+    (43) quote18 -> MOBTADAE10 7ARFJAR13 ISSMMAJROUR16 KHABAR10 7ARFJAR14 ISSMMAJROUR17 MODAFILAYH21 .
+
+    $end            reduce using rule 43 (quote18 -> MOBTADAE10 7ARFJAR13 ISSMMAJROUR16 KHABAR10 7ARFJAR14 ISSMMAJROUR17 MODAFILAYH21 .)
+
+
+state 179
+
+    (45) quote20 -> MOBTADAE11 KHABAR11 ISSMMAJROUR18 MODAFILAYH22 WAW3ATF MOBTADAE12 KHABAR12 . FA3IL6 JARWAMAJROUR1 7ARFJAR15 ISSMMAJROUR19 MODAFILAYH23
+
+    FA3IL6          shift and go to state 196
+
+
+state 180
+
+    (46) quote21 -> DETERMINER ADJECTIVE CONJUNCTION VERB PRT VERB1 PRONOUN .
+
+    $end            reduce using rule 46 (quote21 -> DETERMINER ADJECTIVE CONJUNCTION VERB PRT VERB1 PRONOUN .)
+
+
+state 181
+
+    (47) quote22 -> NOUN1 VERB2 DETERMINER1 ADJECTIVE1 NOUN3 PREPOSITION1 DETERMINER2 . NOUN4
+
+    NOUN4           shift and go to state 197
+
+
+state 182
+
+    (48) quote23 -> ADJECTIVE2 NOUN5 VERB3 ADVERB1 ADVERB2 ADJECTIVE3 CONJUNCTION1 . ADJECTIVE4 NOUN6 VERB4 ADVERB3 ADJECTIVE5
+
+    ADJECTIVE4      shift and go to state 198
+
+
+state 183
+
+    (49) quote24 -> DETERMINER3 NOUN7 PREPOSITION2 NOUN8 VERB5 DETERMINER4 NOUN9 . PREPOSITION3 DETERMINER5 NOUN10
+
+    PREPOSITION3    shift and go to state 199
+
+
+state 184
+
+    (50) quote25 -> PRONOM SUJET1 SUJET2 VERBE ADJECTIF SUJET3 ADJECTIF2 . COMPLEMENT2
+
+    COMPLEMENT2     shift and go to state 200
+
+
+state 185
+
+    (41) quote16 -> ISSMMAWSOUL FI3LMADI16 FA3IL3 ISSM9 MODAFILAYH18 7ARFISTITNA2 FI3LMODARI38 ISSMMAWSOUL . FI3LMADI17 JARWAMAJROUR MAF3OULBIH6
+
+    FI3LMADI17      shift and go to state 201
+
+
+state 186
+
+    (44) quote19 -> ISSMMAWSOUL FI3LMADI18 FA3IL4 MAF3OULBIH8 7ARFNAFY3 FI3LMADI19 FA3IL5 MAF3OULBIH9 .
+
+    $end            reduce using rule 44 (quote19 -> ISSMMAWSOUL FI3LMADI18 FA3IL4 MAF3OULBIH8 7ARFNAFY3 FI3LMADI19 FA3IL5 MAF3OULBIH9 .)
+
+
+state 187
+
+    (28) quote2 -> MOBTADAE1 KHABAR1 NA3T1 WAW3ATF MOBTADAE2 KHABAR2 NA3T2 FI3LAMR1 . MODAF1 MODAFILAYH1 ISSMMAJROUR1 WAW3ATF FI3LAMR2 MAF3OULBIH1 ISSMMAJROUR2
+
+    MODAF1          shift and go to state 202
+
+
+state 188
+
+    (29) quote3 -> 7ARFNAFY1 FI3LMODARI3 ISSMMAJROUR3 7ARFNASSB FI3LMODARI31 ISSMMAJROUR4 ISSM1 WAW3ATF2 . ISSM2 ISSM3 FI3LMADI3 NA3T3 ISSM4 FI3LMADI4 WAW3ATF2 MA3TOUF ISSM5 FI3LMADI5
+
+    ISSM2           shift and go to state 203
+
+
+state 189
+
+    (30) quote5 -> FI3LNA9ISS FI3LMADI7 ISSMJALALA 7ARFJAR6 ISSMMAJROUR6 MODAFILAYH3 FI3LMODARI32 HARFGHAYA . FI3LMADI8 7ARFJAR7 ISSMMAJROUR7 MODAFILAYH4 7ARFNASSB FI3LMODARI33
+
+    FI3LMADI8       shift and go to state 204
+
+
+state 190
+
+    (40) quote15 -> FI3LNA9ISS FI3LMADI14 FA3IL2 MAF3OULBIH5 MOBTADAE8 FI3LMADI15 7ARFJAAR ISSMMAJROUR14 . MODAFILAYH16 MA3TOUF1 MODAFILAYH17
+
+    MODAFILAYH16    shift and go to state 205
+
+
+state 191
+
+    (32) quote7 -> ADATNAFY ISSM6 ISSMMAJROUR8 7ARFJARZA2ID 7ARFJAR8 ISSMMAJROUR9 MOBTADAEMARFOU3 MODAFILAYH5 . FI3LNA9ISS FI3LMADI9
+
+    FI3LNA9ISS      shift and go to state 206
+
+
+state 192
+
+    (34) quote9 -> FI3LAMR3 MAF3OULBIH2 MODAFILAYH6 7ARFISTI2NAF ISSMJALALA FI3LMADI11 FI3LMADI12 MAF3OULBIH3 . 7ARFJAR16 ISSMMAJROUR10
+
+    7ARFJAR16       shift and go to state 207
+
+
+state 193
+
+    (36) quote11 -> 7ARFTAWKID ISSMICHARA ISSM7 FI3LMODARI36 7ARFJAR9 FA3IL1 FI3LMODARI37 DAMIRMOTASIL4 . MAF3OULBIH4 MODAFILAYH9
+
+    MAF3OULBIH4     shift and go to state 208
+
+
+state 194
+
+    (38) quote13 -> MOBTADAE6 MODAFILAYH11 KHABAR7 MODAFILAYH12 WAW3ATF MOBTADAE7 MODAFILAYH13 KHABAR8 . MODAFILAYH14
+
+    MODAFILAYH14    shift and go to state 209
+
+
+state 195
+
+    (42) quote17 -> MOBTADAE9 KHABAR9 MODAFILAYH19 WAW3ATF 7ARFNAFY2 FI3L MAF3OULBIH7 7ARFJAR16 . ISSMMAJROUR15 MODAFILAYH20
+
+    ISSMMAJROUR15   shift and go to state 210
+
+
+state 196
+
+    (45) quote20 -> MOBTADAE11 KHABAR11 ISSMMAJROUR18 MODAFILAYH22 WAW3ATF MOBTADAE12 KHABAR12 FA3IL6 . JARWAMAJROUR1 7ARFJAR15 ISSMMAJROUR19 MODAFILAYH23
+
+    JARWAMAJROUR1   shift and go to state 211
+
+
+state 197
+
+    (47) quote22 -> NOUN1 VERB2 DETERMINER1 ADJECTIVE1 NOUN3 PREPOSITION1 DETERMINER2 NOUN4 .
+
+    $end            reduce using rule 47 (quote22 -> NOUN1 VERB2 DETERMINER1 ADJECTIVE1 NOUN3 PREPOSITION1 DETERMINER2 NOUN4 .)
+
+
+state 198
+
+    (48) quote23 -> ADJECTIVE2 NOUN5 VERB3 ADVERB1 ADVERB2 ADJECTIVE3 CONJUNCTION1 ADJECTIVE4 . NOUN6 VERB4 ADVERB3 ADJECTIVE5
+
+    NOUN6           shift and go to state 212
+
+
+state 199
+
+    (49) quote24 -> DETERMINER3 NOUN7 PREPOSITION2 NOUN8 VERB5 DETERMINER4 NOUN9 PREPOSITION3 . DETERMINER5 NOUN10
+
+    DETERMINER5     shift and go to state 213
+
+
+state 200
+
+    (50) quote25 -> PRONOM SUJET1 SUJET2 VERBE ADJECTIF SUJET3 ADJECTIF2 COMPLEMENT2 .
+
+    $end            reduce using rule 50 (quote25 -> PRONOM SUJET1 SUJET2 VERBE ADJECTIF SUJET3 ADJECTIF2 COMPLEMENT2 .)
+
+
+state 201
+
+    (41) quote16 -> ISSMMAWSOUL FI3LMADI16 FA3IL3 ISSM9 MODAFILAYH18 7ARFISTITNA2 FI3LMODARI38 ISSMMAWSOUL FI3LMADI17 . JARWAMAJROUR MAF3OULBIH6
+
+    JARWAMAJROUR    shift and go to state 214
+
+
+state 202
+
+    (28) quote2 -> MOBTADAE1 KHABAR1 NA3T1 WAW3ATF MOBTADAE2 KHABAR2 NA3T2 FI3LAMR1 MODAF1 . MODAFILAYH1 ISSMMAJROUR1 WAW3ATF FI3LAMR2 MAF3OULBIH1 ISSMMAJROUR2
+
+    MODAFILAYH1     shift and go to state 215
+
+
+state 203
+
+    (29) quote3 -> 7ARFNAFY1 FI3LMODARI3 ISSMMAJROUR3 7ARFNASSB FI3LMODARI31 ISSMMAJROUR4 ISSM1 WAW3ATF2 ISSM2 . ISSM3 FI3LMADI3 NA3T3 ISSM4 FI3LMADI4 WAW3ATF2 MA3TOUF ISSM5 FI3LMADI5
+
+    ISSM3           shift and go to state 216
+
+
+state 204
+
+    (30) quote5 -> FI3LNA9ISS FI3LMADI7 ISSMJALALA 7ARFJAR6 ISSMMAJROUR6 MODAFILAYH3 FI3LMODARI32 HARFGHAYA FI3LMADI8 . 7ARFJAR7 ISSMMAJROUR7 MODAFILAYH4 7ARFNASSB FI3LMODARI33
+
+    7ARFJAR7        shift and go to state 217
+
+
+state 205
+
+    (40) quote15 -> FI3LNA9ISS FI3LMADI14 FA3IL2 MAF3OULBIH5 MOBTADAE8 FI3LMADI15 7ARFJAAR ISSMMAJROUR14 MODAFILAYH16 . MA3TOUF1 MODAFILAYH17
+
+    MA3TOUF1        shift and go to state 218
+
+
+state 206
+
+    (32) quote7 -> ADATNAFY ISSM6 ISSMMAJROUR8 7ARFJARZA2ID 7ARFJAR8 ISSMMAJROUR9 MOBTADAEMARFOU3 MODAFILAYH5 FI3LNA9ISS . FI3LMADI9
+
+    FI3LMADI9       shift and go to state 219
+
+
+state 207
+
+    (34) quote9 -> FI3LAMR3 MAF3OULBIH2 MODAFILAYH6 7ARFISTI2NAF ISSMJALALA FI3LMADI11 FI3LMADI12 MAF3OULBIH3 7ARFJAR16 . ISSMMAJROUR10
+
+    ISSMMAJROUR10   shift and go to state 220
+
+
+state 208
+
+    (36) quote11 -> 7ARFTAWKID ISSMICHARA ISSM7 FI3LMODARI36 7ARFJAR9 FA3IL1 FI3LMODARI37 DAMIRMOTASIL4 MAF3OULBIH4 . MODAFILAYH9
+
+    MODAFILAYH9     shift and go to state 221
+
+
+state 209
+
+    (38) quote13 -> MOBTADAE6 MODAFILAYH11 KHABAR7 MODAFILAYH12 WAW3ATF MOBTADAE7 MODAFILAYH13 KHABAR8 MODAFILAYH14 .
+
+    $end            reduce using rule 38 (quote13 -> MOBTADAE6 MODAFILAYH11 KHABAR7 MODAFILAYH12 WAW3ATF MOBTADAE7 MODAFILAYH13 KHABAR8 MODAFILAYH14 .)
+
+
+state 210
+
+    (42) quote17 -> MOBTADAE9 KHABAR9 MODAFILAYH19 WAW3ATF 7ARFNAFY2 FI3L MAF3OULBIH7 7ARFJAR16 ISSMMAJROUR15 . MODAFILAYH20
+
+    MODAFILAYH20    shift and go to state 222
+
+
+state 211
+
+    (45) quote20 -> MOBTADAE11 KHABAR11 ISSMMAJROUR18 MODAFILAYH22 WAW3ATF MOBTADAE12 KHABAR12 FA3IL6 JARWAMAJROUR1 . 7ARFJAR15 ISSMMAJROUR19 MODAFILAYH23
+
+    7ARFJAR15       shift and go to state 223
+
+
+state 212
+
+    (48) quote23 -> ADJECTIVE2 NOUN5 VERB3 ADVERB1 ADVERB2 ADJECTIVE3 CONJUNCTION1 ADJECTIVE4 NOUN6 . VERB4 ADVERB3 ADJECTIVE5
+
+    VERB4           shift and go to state 224
+
+
+state 213
+
+    (49) quote24 -> DETERMINER3 NOUN7 PREPOSITION2 NOUN8 VERB5 DETERMINER4 NOUN9 PREPOSITION3 DETERMINER5 . NOUN10
+
+    NOUN10          shift and go to state 225
+
+
+state 214
+
+    (41) quote16 -> ISSMMAWSOUL FI3LMADI16 FA3IL3 ISSM9 MODAFILAYH18 7ARFISTITNA2 FI3LMODARI38 ISSMMAWSOUL FI3LMADI17 JARWAMAJROUR . MAF3OULBIH6
+
+    MAF3OULBIH6     shift and go to state 226
+
+
+state 215
+
+    (28) quote2 -> MOBTADAE1 KHABAR1 NA3T1 WAW3ATF MOBTADAE2 KHABAR2 NA3T2 FI3LAMR1 MODAF1 MODAFILAYH1 . ISSMMAJROUR1 WAW3ATF FI3LAMR2 MAF3OULBIH1 ISSMMAJROUR2
+
+    ISSMMAJROUR1    shift and go to state 227
+
+
+state 216
+
+    (29) quote3 -> 7ARFNAFY1 FI3LMODARI3 ISSMMAJROUR3 7ARFNASSB FI3LMODARI31 ISSMMAJROUR4 ISSM1 WAW3ATF2 ISSM2 ISSM3 . FI3LMADI3 NA3T3 ISSM4 FI3LMADI4 WAW3ATF2 MA3TOUF ISSM5 FI3LMADI5
+
+    FI3LMADI3       shift and go to state 228
+
+
+state 217
+
+    (30) quote5 -> FI3LNA9ISS FI3LMADI7 ISSMJALALA 7ARFJAR6 ISSMMAJROUR6 MODAFILAYH3 FI3LMODARI32 HARFGHAYA FI3LMADI8 7ARFJAR7 . ISSMMAJROUR7 MODAFILAYH4 7ARFNASSB FI3LMODARI33
+
+    ISSMMAJROUR7    shift and go to state 229
+
+
+state 218
+
+    (40) quote15 -> FI3LNA9ISS FI3LMADI14 FA3IL2 MAF3OULBIH5 MOBTADAE8 FI3LMADI15 7ARFJAAR ISSMMAJROUR14 MODAFILAYH16 MA3TOUF1 . MODAFILAYH17
+
+    MODAFILAYH17    shift and go to state 230
+
+
+state 219
+
+    (32) quote7 -> ADATNAFY ISSM6 ISSMMAJROUR8 7ARFJARZA2ID 7ARFJAR8 ISSMMAJROUR9 MOBTADAEMARFOU3 MODAFILAYH5 FI3LNA9ISS FI3LMADI9 .
+
+    $end            reduce using rule 32 (quote7 -> ADATNAFY ISSM6 ISSMMAJROUR8 7ARFJARZA2ID 7ARFJAR8 ISSMMAJROUR9 MOBTADAEMARFOU3 MODAFILAYH5 FI3LNA9ISS FI3LMADI9 .)
+
+
+state 220
+
+    (34) quote9 -> FI3LAMR3 MAF3OULBIH2 MODAFILAYH6 7ARFISTI2NAF ISSMJALALA FI3LMADI11 FI3LMADI12 MAF3OULBIH3 7ARFJAR16 ISSMMAJROUR10 .
+
+    $end            reduce using rule 34 (quote9 -> FI3LAMR3 MAF3OULBIH2 MODAFILAYH6 7ARFISTI2NAF ISSMJALALA FI3LMADI11 FI3LMADI12 MAF3OULBIH3 7ARFJAR16 ISSMMAJROUR10 .)
+
+
+state 221
+
+    (36) quote11 -> 7ARFTAWKID ISSMICHARA ISSM7 FI3LMODARI36 7ARFJAR9 FA3IL1 FI3LMODARI37 DAMIRMOTASIL4 MAF3OULBIH4 MODAFILAYH9 .
+
+    $end            reduce using rule 36 (quote11 -> 7ARFTAWKID ISSMICHARA ISSM7 FI3LMODARI36 7ARFJAR9 FA3IL1 FI3LMODARI37 DAMIRMOTASIL4 MAF3OULBIH4 MODAFILAYH9 .)
+
+
+state 222
+
+    (42) quote17 -> MOBTADAE9 KHABAR9 MODAFILAYH19 WAW3ATF 7ARFNAFY2 FI3L MAF3OULBIH7 7ARFJAR16 ISSMMAJROUR15 MODAFILAYH20 .
+
+    $end            reduce using rule 42 (quote17 -> MOBTADAE9 KHABAR9 MODAFILAYH19 WAW3ATF 7ARFNAFY2 FI3L MAF3OULBIH7 7ARFJAR16 ISSMMAJROUR15 MODAFILAYH20 .)
+
+
+state 223
+
+    (45) quote20 -> MOBTADAE11 KHABAR11 ISSMMAJROUR18 MODAFILAYH22 WAW3ATF MOBTADAE12 KHABAR12 FA3IL6 JARWAMAJROUR1 7ARFJAR15 . ISSMMAJROUR19 MODAFILAYH23
+
+    ISSMMAJROUR19   shift and go to state 231
+
+
+state 224
+
+    (48) quote23 -> ADJECTIVE2 NOUN5 VERB3 ADVERB1 ADVERB2 ADJECTIVE3 CONJUNCTION1 ADJECTIVE4 NOUN6 VERB4 . ADVERB3 ADJECTIVE5
+
+    ADVERB3         shift and go to state 232
+
+
+state 225
+
+    (49) quote24 -> DETERMINER3 NOUN7 PREPOSITION2 NOUN8 VERB5 DETERMINER4 NOUN9 PREPOSITION3 DETERMINER5 NOUN10 .
+
+    $end            reduce using rule 49 (quote24 -> DETERMINER3 NOUN7 PREPOSITION2 NOUN8 VERB5 DETERMINER4 NOUN9 PREPOSITION3 DETERMINER5 NOUN10 .)
+
+
+state 226
+
+    (41) quote16 -> ISSMMAWSOUL FI3LMADI16 FA3IL3 ISSM9 MODAFILAYH18 7ARFISTITNA2 FI3LMODARI38 ISSMMAWSOUL FI3LMADI17 JARWAMAJROUR MAF3OULBIH6 .
+
+    $end            reduce using rule 41 (quote16 -> ISSMMAWSOUL FI3LMADI16 FA3IL3 ISSM9 MODAFILAYH18 7ARFISTITNA2 FI3LMODARI38 ISSMMAWSOUL FI3LMADI17 JARWAMAJROUR MAF3OULBIH6 .)
+
+
+state 227
+
+    (28) quote2 -> MOBTADAE1 KHABAR1 NA3T1 WAW3ATF MOBTADAE2 KHABAR2 NA3T2 FI3LAMR1 MODAF1 MODAFILAYH1 ISSMMAJROUR1 . WAW3ATF FI3LAMR2 MAF3OULBIH1 ISSMMAJROUR2
+
+    WAW3ATF         shift and go to state 233
+
+
+state 228
+
+    (29) quote3 -> 7ARFNAFY1 FI3LMODARI3 ISSMMAJROUR3 7ARFNASSB FI3LMODARI31 ISSMMAJROUR4 ISSM1 WAW3ATF2 ISSM2 ISSM3 FI3LMADI3 . NA3T3 ISSM4 FI3LMADI4 WAW3ATF2 MA3TOUF ISSM5 FI3LMADI5
+
+    NA3T3           shift and go to state 234
+
+
+state 229
+
+    (30) quote5 -> FI3LNA9ISS FI3LMADI7 ISSMJALALA 7ARFJAR6 ISSMMAJROUR6 MODAFILAYH3 FI3LMODARI32 HARFGHAYA FI3LMADI8 7ARFJAR7 ISSMMAJROUR7 . MODAFILAYH4 7ARFNASSB FI3LMODARI33
+
+    MODAFILAYH4     shift and go to state 235
+
+
+state 230
+
+    (40) quote15 -> FI3LNA9ISS FI3LMADI14 FA3IL2 MAF3OULBIH5 MOBTADAE8 FI3LMADI15 7ARFJAAR ISSMMAJROUR14 MODAFILAYH16 MA3TOUF1 MODAFILAYH17 .
+
+    $end            reduce using rule 40 (quote15 -> FI3LNA9ISS FI3LMADI14 FA3IL2 MAF3OULBIH5 MOBTADAE8 FI3LMADI15 7ARFJAAR ISSMMAJROUR14 MODAFILAYH16 MA3TOUF1 MODAFILAYH17 .)
+
+
+state 231
+
+    (45) quote20 -> MOBTADAE11 KHABAR11 ISSMMAJROUR18 MODAFILAYH22 WAW3ATF MOBTADAE12 KHABAR12 FA3IL6 JARWAMAJROUR1 7ARFJAR15 ISSMMAJROUR19 . MODAFILAYH23
+
+    MODAFILAYH23    shift and go to state 236
+
+
+state 232
+
+    (48) quote23 -> ADJECTIVE2 NOUN5 VERB3 ADVERB1 ADVERB2 ADJECTIVE3 CONJUNCTION1 ADJECTIVE4 NOUN6 VERB4 ADVERB3 . ADJECTIVE5
+
+    ADJECTIVE5      shift and go to state 237
+
+
+state 233
+
+    (28) quote2 -> MOBTADAE1 KHABAR1 NA3T1 WAW3ATF MOBTADAE2 KHABAR2 NA3T2 FI3LAMR1 MODAF1 MODAFILAYH1 ISSMMAJROUR1 WAW3ATF . FI3LAMR2 MAF3OULBIH1 ISSMMAJROUR2
+
+    FI3LAMR2        shift and go to state 238
+
+
+state 234
+
+    (29) quote3 -> 7ARFNAFY1 FI3LMODARI3 ISSMMAJROUR3 7ARFNASSB FI3LMODARI31 ISSMMAJROUR4 ISSM1 WAW3ATF2 ISSM2 ISSM3 FI3LMADI3 NA3T3 . ISSM4 FI3LMADI4 WAW3ATF2 MA3TOUF ISSM5 FI3LMADI5
+
+    ISSM4           shift and go to state 239
+
+
+state 235
+
+    (30) quote5 -> FI3LNA9ISS FI3LMADI7 ISSMJALALA 7ARFJAR6 ISSMMAJROUR6 MODAFILAYH3 FI3LMODARI32 HARFGHAYA FI3LMADI8 7ARFJAR7 ISSMMAJROUR7 MODAFILAYH4 . 7ARFNASSB FI3LMODARI33
+
+    7ARFNASSB       shift and go to state 240
+
+
+state 236
+
+    (45) quote20 -> MOBTADAE11 KHABAR11 ISSMMAJROUR18 MODAFILAYH22 WAW3ATF MOBTADAE12 KHABAR12 FA3IL6 JARWAMAJROUR1 7ARFJAR15 ISSMMAJROUR19 MODAFILAYH23 .
+
+    $end            reduce using rule 45 (quote20 -> MOBTADAE11 KHABAR11 ISSMMAJROUR18 MODAFILAYH22 WAW3ATF MOBTADAE12 KHABAR12 FA3IL6 JARWAMAJROUR1 7ARFJAR15 ISSMMAJROUR19 MODAFILAYH23 .)
+
+
+state 237
+
+    (48) quote23 -> ADJECTIVE2 NOUN5 VERB3 ADVERB1 ADVERB2 ADJECTIVE3 CONJUNCTION1 ADJECTIVE4 NOUN6 VERB4 ADVERB3 ADJECTIVE5 .
+
+    $end            reduce using rule 48 (quote23 -> ADJECTIVE2 NOUN5 VERB3 ADVERB1 ADVERB2 ADJECTIVE3 CONJUNCTION1 ADJECTIVE4 NOUN6 VERB4 ADVERB3 ADJECTIVE5 .)
+
+
+state 238
+
+    (28) quote2 -> MOBTADAE1 KHABAR1 NA3T1 WAW3ATF MOBTADAE2 KHABAR2 NA3T2 FI3LAMR1 MODAF1 MODAFILAYH1 ISSMMAJROUR1 WAW3ATF FI3LAMR2 . MAF3OULBIH1 ISSMMAJROUR2
+
+    MAF3OULBIH1     shift and go to state 241
+
+
+state 239
+
+    (29) quote3 -> 7ARFNAFY1 FI3LMODARI3 ISSMMAJROUR3 7ARFNASSB FI3LMODARI31 ISSMMAJROUR4 ISSM1 WAW3ATF2 ISSM2 ISSM3 FI3LMADI3 NA3T3 ISSM4 . FI3LMADI4 WAW3ATF2 MA3TOUF ISSM5 FI3LMADI5
+
+    FI3LMADI4       shift and go to state 242
+
+
+state 240
+
+    (30) quote5 -> FI3LNA9ISS FI3LMADI7 ISSMJALALA 7ARFJAR6 ISSMMAJROUR6 MODAFILAYH3 FI3LMODARI32 HARFGHAYA FI3LMADI8 7ARFJAR7 ISSMMAJROUR7 MODAFILAYH4 7ARFNASSB . FI3LMODARI33
+
+    FI3LMODARI33    shift and go to state 243
+
+
+state 241
+
+    (28) quote2 -> MOBTADAE1 KHABAR1 NA3T1 WAW3ATF MOBTADAE2 KHABAR2 NA3T2 FI3LAMR1 MODAF1 MODAFILAYH1 ISSMMAJROUR1 WAW3ATF FI3LAMR2 MAF3OULBIH1 . ISSMMAJROUR2
+
+    ISSMMAJROUR2    shift and go to state 244
+
+
+state 242
+
+    (29) quote3 -> 7ARFNAFY1 FI3LMODARI3 ISSMMAJROUR3 7ARFNASSB FI3LMODARI31 ISSMMAJROUR4 ISSM1 WAW3ATF2 ISSM2 ISSM3 FI3LMADI3 NA3T3 ISSM4 FI3LMADI4 . WAW3ATF2 MA3TOUF ISSM5 FI3LMADI5
+
+    WAW3ATF2        shift and go to state 245
+
+
+state 243
+
+    (30) quote5 -> FI3LNA9ISS FI3LMADI7 ISSMJALALA 7ARFJAR6 ISSMMAJROUR6 MODAFILAYH3 FI3LMODARI32 HARFGHAYA FI3LMADI8 7ARFJAR7 ISSMMAJROUR7 MODAFILAYH4 7ARFNASSB FI3LMODARI33 .
+
+    $end            reduce using rule 30 (quote5 -> FI3LNA9ISS FI3LMADI7 ISSMJALALA 7ARFJAR6 ISSMMAJROUR6 MODAFILAYH3 FI3LMODARI32 HARFGHAYA FI3LMADI8 7ARFJAR7 ISSMMAJROUR7 MODAFILAYH4 7ARFNASSB FI3LMODARI33 .)
+
+
+state 244
+
+    (28) quote2 -> MOBTADAE1 KHABAR1 NA3T1 WAW3ATF MOBTADAE2 KHABAR2 NA3T2 FI3LAMR1 MODAF1 MODAFILAYH1 ISSMMAJROUR1 WAW3ATF FI3LAMR2 MAF3OULBIH1 ISSMMAJROUR2 .
+
+    $end            reduce using rule 28 (quote2 -> MOBTADAE1 KHABAR1 NA3T1 WAW3ATF MOBTADAE2 KHABAR2 NA3T2 FI3LAMR1 MODAF1 MODAFILAYH1 ISSMMAJROUR1 WAW3ATF FI3LAMR2 MAF3OULBIH1 ISSMMAJROUR2 .)
+
+
+state 245
+
+    (29) quote3 -> 7ARFNAFY1 FI3LMODARI3 ISSMMAJROUR3 7ARFNASSB FI3LMODARI31 ISSMMAJROUR4 ISSM1 WAW3ATF2 ISSM2 ISSM3 FI3LMADI3 NA3T3 ISSM4 FI3LMADI4 WAW3ATF2 . MA3TOUF ISSM5 FI3LMADI5
+
+    MA3TOUF         shift and go to state 246
+
+
+state 246
+
+    (29) quote3 -> 7ARFNAFY1 FI3LMODARI3 ISSMMAJROUR3 7ARFNASSB FI3LMODARI31 ISSMMAJROUR4 ISSM1 WAW3ATF2 ISSM2 ISSM3 FI3LMADI3 NA3T3 ISSM4 FI3LMADI4 WAW3ATF2 MA3TOUF . ISSM5 FI3LMADI5
+
+    ISSM5           shift and go to state 247
+
+
+state 247
+
+    (29) quote3 -> 7ARFNAFY1 FI3LMODARI3 ISSMMAJROUR3 7ARFNASSB FI3LMODARI31 ISSMMAJROUR4 ISSM1 WAW3ATF2 ISSM2 ISSM3 FI3LMADI3 NA3T3 ISSM4 FI3LMADI4 WAW3ATF2 MA3TOUF ISSM5 . FI3LMADI5
+
+    FI3LMADI5       shift and go to state 248
+
+
+state 248
+
+    (29) quote3 -> 7ARFNAFY1 FI3LMODARI3 ISSMMAJROUR3 7ARFNASSB FI3LMODARI31 ISSMMAJROUR4 ISSM1 WAW3ATF2 ISSM2 ISSM3 FI3LMADI3 NA3T3 ISSM4 FI3LMADI4 WAW3ATF2 MA3TOUF ISSM5 FI3LMADI5 .
+
+    $end            reduce using rule 29 (quote3 -> 7ARFNAFY1 FI3LMODARI3 ISSMMAJROUR3 7ARFNASSB FI3LMODARI31 ISSMMAJROUR4 ISSM1 WAW3ATF2 ISSM2 ISSM3 FI3LMADI3 NA3T3 ISSM4 FI3LMADI4 WAW3ATF2 MA3TOUF ISSM5 FI3LMADI5 .)
+
